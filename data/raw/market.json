@@ -1,0 +1,23 @@
+[
+  {
+    "deal_id": "D001",
+    "signals": [
+      "CompetitorX offering aggressive pricing",
+      "AI adoption increasing in fintech sector"
+    ]
+  },
+  {
+    "deal_id": "D002",
+    "signals": [
+      "Budget cuts in healthcare sector",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D004",
+    "signals": [
+      "Regulatory pressure delaying banking deals",
+      "CompetitorY gaining traction"
+    ]
+  }
+]

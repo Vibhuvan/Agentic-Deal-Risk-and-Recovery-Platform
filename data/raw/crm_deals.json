@@ -1,0 +1,67 @@
+[
+  {
+    "deal_id": "D001",
+    "account_name": "NextGen Solutions",
+    "industry": "FinTech",
+    "stage": "Negotiation",
+    "value_usd": 150000,
+    "close_probability": 0.62,
+    "owner": "Alice Johnson",
+    "region": "North America",
+    "product": "AI Risk Platform",
+    "last_activity_date": "2026-03-15",
+    "expected_close_date": "2026-03-30"
+  },
+  {
+    "deal_id": "D002",
+    "account_name": "DataWorks Ltd.",
+    "industry": "Healthcare",
+    "stage": "Proposal Sent",
+    "value_usd": 90000,
+    "close_probability": 0.48,
+    "owner": "Bob Lee",
+    "region": "EMEA",
+    "product": "Cloud Migration Suite",
+    "last_activity_date": "2026-03-10",
+    "expected_close_date": "2026-04-20"
+  },
+  {
+    "deal_id": "D003",
+    "account_name": "RetailCorp",
+    "industry": "Retail",
+    "stage": "Demo Completed",
+    "value_usd": 60000,
+    "close_probability": 0.55,
+    "owner": "Charlie Kim",
+    "region": "APAC",
+    "product": "Customer Analytics",
+    "last_activity_date": "2026-03-18",
+    "expected_close_date": "2026-04-10"
+  },
+  {
+    "deal_id": "D004",
+    "account_name": "SecureBank",
+    "industry": "Banking",
+    "stage": "Negotiation",
+    "value_usd": 200000,
+    "close_probability": 0.70,
+    "owner": "Diana Ross",
+    "region": "North America",
+    "product": "Fraud Detection AI",
+    "last_activity_date": "2026-03-05",
+    "expected_close_date": "2026-03-28"
+  },
+  {
+    "deal_id": "D005",
+    "account_name": "LogiChain",
+    "industry": "Supply Chain",
+    "stage": "Proposal Sent",
+    "value_usd": 120000,
+    "close_probability": 0.50,
+    "owner": "Ethan Clark",
+    "region": "Global",
+    "product": "Logistics Optimization AI",
+    "last_activity_date": "2026-03-08",
+    "expected_close_date": "2026-04-25"
+  }
+]

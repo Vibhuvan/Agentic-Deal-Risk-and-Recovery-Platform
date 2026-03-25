@@ -1,0 +1,26 @@
+[
+  {
+    "deal_id": "D001",
+    "email_opens": 8,
+    "email_replies": 2,
+    "meetings": 1,
+    "avg_reply_time_hours": 48,
+    "last_engagement_days_ago": 4
+  },
+  {
+    "deal_id": "D002",
+    "email_opens": 5,
+    "email_replies": 1,
+    "meetings": 0,
+    "avg_reply_time_hours": 120,
+    "last_engagement_days_ago": 10
+  },
+  {
+    "deal_id": "D004",
+    "email_opens": 3,
+    "email_replies": 0,
+    "meetings": 0,
+    "avg_reply_time_hours": 0,
+    "last_engagement_days_ago": 15
+  }
+]

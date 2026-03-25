@@ -1,0 +1,67 @@
+[
+  {
+    "deal_id": "D001",
+    "thread_id": "T001",
+    "from": "alice@company.com",
+    "to": ["john@nextgen.com"],
+    "timestamp": "2026-03-01T10:00:00Z",
+    "subject": "Proposal Discussion",
+    "body": "Hi John, sharing the proposal. Let me know your thoughts."
+  },
+  {
+    "deal_id": "D001",
+    "thread_id": "T001",
+    "from": "john@nextgen.com",
+    "to": ["alice@company.com"],
+    "timestamp": "2026-03-03T15:00:00Z",
+    "subject": "Re: Proposal Discussion",
+    "body": "Thanks Alice. Looks interesting but pricing seems higher than expected."
+  },
+  {
+    "deal_id": "D001",
+    "thread_id": "T001",
+    "from": "alice@company.com",
+    "to": ["john@nextgen.com"],
+    "timestamp": "2026-03-05T11:00:00Z",
+    "subject": "Re: Proposal Discussion",
+    "body": "We can explore flexible pricing options. Happy to discuss."
+  },
+  {
+    "deal_id": "D001",
+    "thread_id": "T001",
+    "from": "john@nextgen.com",
+    "to": ["alice@company.com"],
+    "timestamp": "2026-03-12T16:30:00Z",
+    "subject": "Re: Proposal Discussion",
+    "body": "We are also evaluating CompetitorX which is offering a discount."
+  },
+
+  {
+    "deal_id": "D002",
+    "thread_id": "T002",
+    "from": "bob@company.com",
+    "to": ["emily@dataworks.com"],
+    "timestamp": "2026-03-02T09:00:00Z",
+    "subject": "Proposal Sent",
+    "body": "Hi Emily, sharing proposal for cloud migration."
+  },
+  {
+    "deal_id": "D002",
+    "thread_id": "T002",
+    "from": "emily@dataworks.com",
+    "to": ["bob@company.com"],
+    "timestamp": "2026-03-07T14:00:00Z",
+    "subject": "Re: Proposal Sent",
+    "body": "Thanks. We need internal approval. Might take time."
+  },
+
+  {
+    "deal_id": "D004",
+    "thread_id": "T004",
+    "from": "diana@company.com",
+    "to": ["mike@securebank.com"],
+    "timestamp": "2026-02-25T10:00:00Z",
+    "subject": "Final Negotiation",
+    "body": "Hi Mike, checking if we can close this week."
+  }
+]
