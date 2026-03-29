@@ -2,66 +2,6381 @@
   {
     "deal_id": "D001",
     "thread_id": "T001",
-    "from": "alice@company.com",
-    "to": ["john@nextgen.com"],
-    "timestamp": "2026-03-01T10:00:00Z",
-    "subject": "Proposal Discussion",
-    "body": "Hi John, sharing the proposal. Let me know your thoughts."
+    "from": "hannah@company.com",
+    "to": [
+      "contact001@nextworks.com"
+    ],
+    "timestamp": "2026-04-10T01:01:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
   },
   {
     "deal_id": "D001",
     "thread_id": "T001",
-    "from": "john@nextgen.com",
-    "to": ["alice@company.com"],
-    "timestamp": "2026-03-03T15:00:00Z",
-    "subject": "Re: Proposal Discussion",
-    "body": "Thanks Alice. Looks interesting but pricing seems higher than expected."
+    "from": "contact001@nextworks.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-05-28T09:30:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
   },
   {
     "deal_id": "D001",
     "thread_id": "T001",
-    "from": "alice@company.com",
-    "to": ["john@nextgen.com"],
-    "timestamp": "2026-03-05T11:00:00Z",
-    "subject": "Re: Proposal Discussion",
-    "body": "We can explore flexible pricing options. Happy to discuss."
+    "from": "hannah@company.com",
+    "to": [
+      "contact001@nextworks.com"
+    ],
+    "timestamp": "2026-05-27T04:06:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
   },
   {
     "deal_id": "D001",
     "thread_id": "T001",
-    "from": "john@nextgen.com",
-    "to": ["alice@company.com"],
-    "timestamp": "2026-03-12T16:30:00Z",
-    "subject": "Re: Proposal Discussion",
-    "body": "We are also evaluating CompetitorX which is offering a discount."
+    "from": "contact001@nextworks.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-05-09T02:08:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
   },
-
   {
     "deal_id": "D002",
     "thread_id": "T002",
-    "from": "bob@company.com",
-    "to": ["emily@dataworks.com"],
-    "timestamp": "2026-03-02T09:00:00Z",
-    "subject": "Proposal Sent",
-    "body": "Hi Emily, sharing proposal for cloud migration."
+    "from": "alice@company.com",
+    "to": [
+      "contact002@smartcorp.com"
+    ],
+    "timestamp": "2026-03-09T05:44:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
   },
   {
     "deal_id": "D002",
     "thread_id": "T002",
-    "from": "emily@dataworks.com",
-    "to": ["bob@company.com"],
-    "timestamp": "2026-03-07T14:00:00Z",
-    "subject": "Re: Proposal Sent",
-    "body": "Thanks. We need internal approval. Might take time."
+    "from": "contact002@smartcorp.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-03-04T23:25:00Z",
+    "subject": "Re: Update on Student Performance AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
   },
-
+  {
+    "deal_id": "D003",
+    "thread_id": "T003",
+    "from": "julia@company.com",
+    "to": [
+      "contact003@globalnetwork.com"
+    ],
+    "timestamp": "2026-03-08T20:37:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D003",
+    "thread_id": "T003",
+    "from": "contact003@globalnetwork.com",
+    "to": [
+      "julia@company.com"
+    ],
+    "timestamp": "2026-04-19T08:42:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D003",
+    "thread_id": "T003",
+    "from": "julia@company.com",
+    "to": [
+      "contact003@globalnetwork.com"
+    ],
+    "timestamp": "2026-05-11T04:26:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
   {
     "deal_id": "D004",
     "thread_id": "T004",
+    "from": "ethan@company.com",
+    "to": [
+      "contact004@futuredynamics.com"
+    ],
+    "timestamp": "2026-05-24T15:36:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D004",
+    "thread_id": "T004",
+    "from": "contact004@futuredynamics.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-05-17T14:14:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D004",
+    "thread_id": "T004",
+    "from": "ethan@company.com",
+    "to": [
+      "contact004@futuredynamics.com"
+    ],
+    "timestamp": "2026-05-23T07:09:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D004",
+    "thread_id": "T004",
+    "from": "contact004@futuredynamics.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-03-31T08:19:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D005",
+    "thread_id": "T005",
+    "from": "ethan@company.com",
+    "to": [
+      "contact005@nextenterprises.com"
+    ],
+    "timestamp": "2026-04-09T22:45:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D005",
+    "thread_id": "T005",
+    "from": "contact005@nextenterprises.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-04-15T12:02:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D005",
+    "thread_id": "T005",
+    "from": "ethan@company.com",
+    "to": [
+      "contact005@nextenterprises.com"
+    ],
+    "timestamp": "2026-03-06T05:31:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D005",
+    "thread_id": "T005",
+    "from": "contact005@nextenterprises.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-04-05T23:02:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D006",
+    "thread_id": "T006",
+    "from": "alice@company.com",
+    "to": [
+      "contact006@nextcorp.com"
+    ],
+    "timestamp": "2026-05-20T21:03:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D006",
+    "thread_id": "T006",
+    "from": "contact006@nextcorp.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-04-24T14:04:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D006",
+    "thread_id": "T006",
+    "from": "alice@company.com",
+    "to": [
+      "contact006@nextcorp.com"
+    ],
+    "timestamp": "2026-03-31T07:03:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D007",
+    "thread_id": "T007",
+    "from": "ethan@company.com",
+    "to": [
+      "contact007@peakdynamics.com"
+    ],
+    "timestamp": "2026-04-30T11:22:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D007",
+    "thread_id": "T007",
+    "from": "contact007@peakdynamics.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-03-02T21:22:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D007",
+    "thread_id": "T007",
+    "from": "ethan@company.com",
+    "to": [
+      "contact007@peakdynamics.com"
+    ],
+    "timestamp": "2026-05-13T15:56:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D007",
+    "thread_id": "T007",
+    "from": "contact007@peakdynamics.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-05-22T17:02:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D008",
+    "thread_id": "T008",
+    "from": "george@company.com",
+    "to": [
+      "contact008@futuredynamics.com"
+    ],
+    "timestamp": "2026-03-22T03:08:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D008",
+    "thread_id": "T008",
+    "from": "contact008@futuredynamics.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-04-04T06:19:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D008",
+    "thread_id": "T008",
+    "from": "george@company.com",
+    "to": [
+      "contact008@futuredynamics.com"
+    ],
+    "timestamp": "2026-04-04T21:34:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D009",
+    "thread_id": "T009",
+    "from": "julia@company.com",
+    "to": [
+      "contact009@bluepartners.com"
+    ],
+    "timestamp": "2026-04-30T08:55:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D009",
+    "thread_id": "T009",
+    "from": "contact009@bluepartners.com",
+    "to": [
+      "julia@company.com"
+    ],
+    "timestamp": "2026-05-26T13:11:00Z",
+    "subject": "Re: Update on Fraud Detection AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D010",
+    "thread_id": "T010",
+    "from": "hannah@company.com",
+    "to": [
+      "contact010@bluesolutions.com"
+    ],
+    "timestamp": "2026-04-29T15:49:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D010",
+    "thread_id": "T010",
+    "from": "contact010@bluesolutions.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-05-21T19:41:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D011",
+    "thread_id": "T011",
+    "from": "ethan@company.com",
+    "to": [
+      "contact011@futureenterprises.com"
+    ],
+    "timestamp": "2026-03-29T22:15:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D011",
+    "thread_id": "T011",
+    "from": "contact011@futureenterprises.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-05-19T22:04:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D012",
+    "thread_id": "T012",
+    "from": "bob@company.com",
+    "to": [
+      "contact012@greennetwork.com"
+    ],
+    "timestamp": "2026-05-07T00:41:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D012",
+    "thread_id": "T012",
+    "from": "contact012@greennetwork.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-04-20T22:18:00Z",
+    "subject": "Re: Update on Student Performance AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D012",
+    "thread_id": "T012",
+    "from": "bob@company.com",
+    "to": [
+      "contact012@greennetwork.com"
+    ],
+    "timestamp": "2026-03-30T07:12:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D013",
+    "thread_id": "T013",
+    "from": "george@company.com",
+    "to": [
+      "contact013@corenetwork.com"
+    ],
+    "timestamp": "2026-05-06T23:20:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D013",
+    "thread_id": "T013",
+    "from": "contact013@corenetwork.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-04-12T18:27:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D013",
+    "thread_id": "T013",
+    "from": "george@company.com",
+    "to": [
+      "contact013@corenetwork.com"
+    ],
+    "timestamp": "2026-05-13T08:46:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D014",
+    "thread_id": "T014",
+    "from": "charlie@company.com",
+    "to": [
+      "contact014@coreinc.com"
+    ],
+    "timestamp": "2026-04-11T13:43:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D014",
+    "thread_id": "T014",
+    "from": "contact014@coreinc.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-05-02T08:49:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D015",
+    "thread_id": "T015",
+    "from": "ethan@company.com",
+    "to": [
+      "contact015@globalnetwork.com"
+    ],
+    "timestamp": "2026-05-16T19:48:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D015",
+    "thread_id": "T015",
+    "from": "contact015@globalnetwork.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-04-30T02:45:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D015",
+    "thread_id": "T015",
+    "from": "ethan@company.com",
+    "to": [
+      "contact015@globalnetwork.com"
+    ],
+    "timestamp": "2026-04-25T03:51:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D016",
+    "thread_id": "T016",
+    "from": "ethan@company.com",
+    "to": [
+      "contact016@nextcorp.com"
+    ],
+    "timestamp": "2026-03-12T03:05:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D016",
+    "thread_id": "T016",
+    "from": "contact016@nextcorp.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-04-12T14:26:00Z",
+    "subject": "Re: Update on Fraud Detection AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D017",
+    "thread_id": "T017",
+    "from": "hannah@company.com",
+    "to": [
+      "contact017@peaksolutions.com"
+    ],
+    "timestamp": "2026-05-21T06:40:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D017",
+    "thread_id": "T017",
+    "from": "contact017@peaksolutions.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-04-03T05:50:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D018",
+    "thread_id": "T018",
+    "from": "george@company.com",
+    "to": [
+      "contact018@smartinc.com"
+    ],
+    "timestamp": "2026-04-19T18:09:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D018",
+    "thread_id": "T018",
+    "from": "contact018@smartinc.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-04-28T01:06:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D019",
+    "thread_id": "T019",
+    "from": "hannah@company.com",
+    "to": [
+      "contact019@bluepartners.com"
+    ],
+    "timestamp": "2026-04-01T08:45:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D019",
+    "thread_id": "T019",
+    "from": "contact019@bluepartners.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-03-13T07:34:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D019",
+    "thread_id": "T019",
+    "from": "hannah@company.com",
+    "to": [
+      "contact019@bluepartners.com"
+    ],
+    "timestamp": "2026-04-07T19:43:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D019",
+    "thread_id": "T019",
+    "from": "contact019@bluepartners.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-03-01T05:30:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D020",
+    "thread_id": "T020",
+    "from": "bob@company.com",
+    "to": [
+      "contact020@primenetwork.com"
+    ],
+    "timestamp": "2026-03-28T16:44:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D020",
+    "thread_id": "T020",
+    "from": "contact020@primenetwork.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-05-12T23:28:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D020",
+    "thread_id": "T020",
+    "from": "bob@company.com",
+    "to": [
+      "contact020@primenetwork.com"
+    ],
+    "timestamp": "2026-03-27T16:46:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D021",
+    "thread_id": "T021",
+    "from": "george@company.com",
+    "to": [
+      "contact021@peaklabs.com"
+    ],
+    "timestamp": "2026-03-06T08:18:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D021",
+    "thread_id": "T021",
+    "from": "contact021@peaklabs.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-03-13T04:21:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D022",
+    "thread_id": "T022",
     "from": "diana@company.com",
-    "to": ["mike@securebank.com"],
-    "timestamp": "2026-02-25T10:00:00Z",
-    "subject": "Final Negotiation",
-    "body": "Hi Mike, checking if we can close this week."
+    "to": [
+      "contact022@globalcorp.com"
+    ],
+    "timestamp": "2026-04-04T09:26:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D022",
+    "thread_id": "T022",
+    "from": "contact022@globalcorp.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-05-08T06:44:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D023",
+    "thread_id": "T023",
+    "from": "george@company.com",
+    "to": [
+      "contact023@globalsolutions.com"
+    ],
+    "timestamp": "2026-04-04T06:32:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D023",
+    "thread_id": "T023",
+    "from": "contact023@globalsolutions.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-04-24T02:45:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D023",
+    "thread_id": "T023",
+    "from": "george@company.com",
+    "to": [
+      "contact023@globalsolutions.com"
+    ],
+    "timestamp": "2026-03-29T05:29:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D023",
+    "thread_id": "T023",
+    "from": "contact023@globalsolutions.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-03-30T07:44:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D024",
+    "thread_id": "T024",
+    "from": "diana@company.com",
+    "to": [
+      "contact024@corelabs.com"
+    ],
+    "timestamp": "2026-05-19T01:22:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D024",
+    "thread_id": "T024",
+    "from": "contact024@corelabs.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-04-10T10:30:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D024",
+    "thread_id": "T024",
+    "from": "diana@company.com",
+    "to": [
+      "contact024@corelabs.com"
+    ],
+    "timestamp": "2026-05-19T03:54:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D024",
+    "thread_id": "T024",
+    "from": "contact024@corelabs.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-04-25T13:03:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D025",
+    "thread_id": "T025",
+    "from": "julia@company.com",
+    "to": [
+      "contact025@smartsolutions.com"
+    ],
+    "timestamp": "2026-05-04T13:14:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D025",
+    "thread_id": "T025",
+    "from": "contact025@smartsolutions.com",
+    "to": [
+      "julia@company.com"
+    ],
+    "timestamp": "2026-05-15T03:06:00Z",
+    "subject": "Re: Update on Student Performance AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D025",
+    "thread_id": "T025",
+    "from": "julia@company.com",
+    "to": [
+      "contact025@smartsolutions.com"
+    ],
+    "timestamp": "2026-04-29T11:24:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D025",
+    "thread_id": "T025",
+    "from": "contact025@smartsolutions.com",
+    "to": [
+      "julia@company.com"
+    ],
+    "timestamp": "2026-04-12T10:11:00Z",
+    "subject": "Re: Update on Student Performance AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D026",
+    "thread_id": "T026",
+    "from": "hannah@company.com",
+    "to": [
+      "contact026@primesolutions.com"
+    ],
+    "timestamp": "2026-03-13T05:19:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D026",
+    "thread_id": "T026",
+    "from": "contact026@primesolutions.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-05-22T12:03:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D027",
+    "thread_id": "T027",
+    "from": "ivan@company.com",
+    "to": [
+      "contact027@nextinc.com"
+    ],
+    "timestamp": "2026-03-10T23:39:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D027",
+    "thread_id": "T027",
+    "from": "contact027@nextinc.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-05-11T01:31:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D028",
+    "thread_id": "T028",
+    "from": "bob@company.com",
+    "to": [
+      "contact028@blueenterprises.com"
+    ],
+    "timestamp": "2026-03-16T08:14:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D028",
+    "thread_id": "T028",
+    "from": "contact028@blueenterprises.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-03-22T10:15:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D028",
+    "thread_id": "T028",
+    "from": "bob@company.com",
+    "to": [
+      "contact028@blueenterprises.com"
+    ],
+    "timestamp": "2026-05-19T04:56:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D029",
+    "thread_id": "T029",
+    "from": "ethan@company.com",
+    "to": [
+      "contact029@globalsolutions.com"
+    ],
+    "timestamp": "2026-05-11T15:12:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D029",
+    "thread_id": "T029",
+    "from": "contact029@globalsolutions.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-05-30T18:47:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D029",
+    "thread_id": "T029",
+    "from": "ethan@company.com",
+    "to": [
+      "contact029@globalsolutions.com"
+    ],
+    "timestamp": "2026-05-24T09:10:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D029",
+    "thread_id": "T029",
+    "from": "contact029@globalsolutions.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-05-22T23:40:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D030",
+    "thread_id": "T030",
+    "from": "ethan@company.com",
+    "to": [
+      "contact030@nextenterprises.com"
+    ],
+    "timestamp": "2026-04-01T10:40:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D030",
+    "thread_id": "T030",
+    "from": "contact030@nextenterprises.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-04-19T17:41:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D030",
+    "thread_id": "T030",
+    "from": "ethan@company.com",
+    "to": [
+      "contact030@nextenterprises.com"
+    ],
+    "timestamp": "2026-03-27T01:46:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D031",
+    "thread_id": "T031",
+    "from": "charlie@company.com",
+    "to": [
+      "contact031@globalenterprises.com"
+    ],
+    "timestamp": "2026-05-06T12:53:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D031",
+    "thread_id": "T031",
+    "from": "contact031@globalenterprises.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-05-08T12:14:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D031",
+    "thread_id": "T031",
+    "from": "charlie@company.com",
+    "to": [
+      "contact031@globalenterprises.com"
+    ],
+    "timestamp": "2026-05-17T03:03:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D032",
+    "thread_id": "T032",
+    "from": "bob@company.com",
+    "to": [
+      "contact032@totalsystems.com"
+    ],
+    "timestamp": "2026-04-07T12:44:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D032",
+    "thread_id": "T032",
+    "from": "contact032@totalsystems.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-03-14T01:45:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D032",
+    "thread_id": "T032",
+    "from": "bob@company.com",
+    "to": [
+      "contact032@totalsystems.com"
+    ],
+    "timestamp": "2026-04-25T13:58:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D032",
+    "thread_id": "T032",
+    "from": "contact032@totalsystems.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-04-06T08:20:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D033",
+    "thread_id": "T033",
+    "from": "fiona@company.com",
+    "to": [
+      "contact033@corenetwork.com"
+    ],
+    "timestamp": "2026-05-12T06:32:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D033",
+    "thread_id": "T033",
+    "from": "contact033@corenetwork.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-04-24T20:22:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D033",
+    "thread_id": "T033",
+    "from": "fiona@company.com",
+    "to": [
+      "contact033@corenetwork.com"
+    ],
+    "timestamp": "2026-05-02T00:40:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D033",
+    "thread_id": "T033",
+    "from": "contact033@corenetwork.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-04-29T22:05:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D034",
+    "thread_id": "T034",
+    "from": "hannah@company.com",
+    "to": [
+      "contact034@nextinc.com"
+    ],
+    "timestamp": "2026-04-10T02:30:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D034",
+    "thread_id": "T034",
+    "from": "contact034@nextinc.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-05-23T14:42:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D034",
+    "thread_id": "T034",
+    "from": "hannah@company.com",
+    "to": [
+      "contact034@nextinc.com"
+    ],
+    "timestamp": "2026-03-09T10:45:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D034",
+    "thread_id": "T034",
+    "from": "contact034@nextinc.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-04-14T20:22:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D035",
+    "thread_id": "T035",
+    "from": "ethan@company.com",
+    "to": [
+      "contact035@globalsystems.com"
+    ],
+    "timestamp": "2026-05-13T15:44:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D035",
+    "thread_id": "T035",
+    "from": "contact035@globalsystems.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-04-21T01:57:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D036",
+    "thread_id": "T036",
+    "from": "alice@company.com",
+    "to": [
+      "contact036@smartdynamics.com"
+    ],
+    "timestamp": "2026-05-19T21:39:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D036",
+    "thread_id": "T036",
+    "from": "contact036@smartdynamics.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-05-06T23:36:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D036",
+    "thread_id": "T036",
+    "from": "alice@company.com",
+    "to": [
+      "contact036@smartdynamics.com"
+    ],
+    "timestamp": "2026-05-30T08:45:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D037",
+    "thread_id": "T037",
+    "from": "ivan@company.com",
+    "to": [
+      "contact037@globalnetwork.com"
+    ],
+    "timestamp": "2026-03-17T12:21:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D037",
+    "thread_id": "T037",
+    "from": "contact037@globalnetwork.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-05-20T00:43:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D038",
+    "thread_id": "T038",
+    "from": "fiona@company.com",
+    "to": [
+      "contact038@greenpartners.com"
+    ],
+    "timestamp": "2026-05-28T09:35:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D038",
+    "thread_id": "T038",
+    "from": "contact038@greenpartners.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-04-15T17:43:00Z",
+    "subject": "Re: Update on Student Performance AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D039",
+    "thread_id": "T039",
+    "from": "george@company.com",
+    "to": [
+      "contact039@bluesolutions.com"
+    ],
+    "timestamp": "2026-03-30T18:29:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D039",
+    "thread_id": "T039",
+    "from": "contact039@bluesolutions.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-03-26T01:01:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D040",
+    "thread_id": "T040",
+    "from": "george@company.com",
+    "to": [
+      "contact040@globalpartners.com"
+    ],
+    "timestamp": "2026-04-12T10:44:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D040",
+    "thread_id": "T040",
+    "from": "contact040@globalpartners.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-04-17T20:03:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D041",
+    "thread_id": "T041",
+    "from": "charlie@company.com",
+    "to": [
+      "contact041@nextcorp.com"
+    ],
+    "timestamp": "2026-04-20T18:40:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D041",
+    "thread_id": "T041",
+    "from": "contact041@nextcorp.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-05-04T11:41:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D041",
+    "thread_id": "T041",
+    "from": "charlie@company.com",
+    "to": [
+      "contact041@nextcorp.com"
+    ],
+    "timestamp": "2026-04-07T02:04:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D041",
+    "thread_id": "T041",
+    "from": "contact041@nextcorp.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-04-02T23:29:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D042",
+    "thread_id": "T042",
+    "from": "ivan@company.com",
+    "to": [
+      "contact042@peakpartners.com"
+    ],
+    "timestamp": "2026-03-02T04:01:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D042",
+    "thread_id": "T042",
+    "from": "contact042@peakpartners.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-03-28T23:51:00Z",
+    "subject": "Re: Update on Student Performance AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D042",
+    "thread_id": "T042",
+    "from": "ivan@company.com",
+    "to": [
+      "contact042@peakpartners.com"
+    ],
+    "timestamp": "2026-04-17T08:40:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D043",
+    "thread_id": "T043",
+    "from": "alice@company.com",
+    "to": [
+      "contact043@coreinc.com"
+    ],
+    "timestamp": "2026-03-16T09:16:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D043",
+    "thread_id": "T043",
+    "from": "contact043@coreinc.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-05-13T02:52:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D043",
+    "thread_id": "T043",
+    "from": "alice@company.com",
+    "to": [
+      "contact043@coreinc.com"
+    ],
+    "timestamp": "2026-04-28T22:05:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D043",
+    "thread_id": "T043",
+    "from": "contact043@coreinc.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-04-19T17:01:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D044",
+    "thread_id": "T044",
+    "from": "ethan@company.com",
+    "to": [
+      "contact044@greendynamics.com"
+    ],
+    "timestamp": "2026-05-03T03:08:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D044",
+    "thread_id": "T044",
+    "from": "contact044@greendynamics.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-05-13T11:39:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D044",
+    "thread_id": "T044",
+    "from": "ethan@company.com",
+    "to": [
+      "contact044@greendynamics.com"
+    ],
+    "timestamp": "2026-04-23T00:58:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D045",
+    "thread_id": "T045",
+    "from": "ivan@company.com",
+    "to": [
+      "contact045@greennetwork.com"
+    ],
+    "timestamp": "2026-04-09T20:28:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D045",
+    "thread_id": "T045",
+    "from": "contact045@greennetwork.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-04-13T21:18:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D046",
+    "thread_id": "T046",
+    "from": "charlie@company.com",
+    "to": [
+      "contact046@corenetwork.com"
+    ],
+    "timestamp": "2026-04-04T06:11:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D046",
+    "thread_id": "T046",
+    "from": "contact046@corenetwork.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-05-12T14:11:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D046",
+    "thread_id": "T046",
+    "from": "charlie@company.com",
+    "to": [
+      "contact046@corenetwork.com"
+    ],
+    "timestamp": "2026-05-22T19:56:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D047",
+    "thread_id": "T047",
+    "from": "bob@company.com",
+    "to": [
+      "contact047@futurenetwork.com"
+    ],
+    "timestamp": "2026-03-12T13:27:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D047",
+    "thread_id": "T047",
+    "from": "contact047@futurenetwork.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-05-22T06:56:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D047",
+    "thread_id": "T047",
+    "from": "bob@company.com",
+    "to": [
+      "contact047@futurenetwork.com"
+    ],
+    "timestamp": "2026-04-13T01:57:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D047",
+    "thread_id": "T047",
+    "from": "contact047@futurenetwork.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-03-27T05:06:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D048",
+    "thread_id": "T048",
+    "from": "charlie@company.com",
+    "to": [
+      "contact048@smartenterprises.com"
+    ],
+    "timestamp": "2026-04-06T22:36:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D048",
+    "thread_id": "T048",
+    "from": "contact048@smartenterprises.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-03-26T01:04:00Z",
+    "subject": "Re: Update on Fraud Detection AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D048",
+    "thread_id": "T048",
+    "from": "charlie@company.com",
+    "to": [
+      "contact048@smartenterprises.com"
+    ],
+    "timestamp": "2026-03-05T04:38:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D048",
+    "thread_id": "T048",
+    "from": "contact048@smartenterprises.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-04-18T01:33:00Z",
+    "subject": "Re: Update on Fraud Detection AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D049",
+    "thread_id": "T049",
+    "from": "bob@company.com",
+    "to": [
+      "contact049@smartpartners.com"
+    ],
+    "timestamp": "2026-05-05T11:47:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D049",
+    "thread_id": "T049",
+    "from": "contact049@smartpartners.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-05-30T09:27:00Z",
+    "subject": "Re: Update on Student Performance AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D049",
+    "thread_id": "T049",
+    "from": "bob@company.com",
+    "to": [
+      "contact049@smartpartners.com"
+    ],
+    "timestamp": "2026-03-25T05:33:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D050",
+    "thread_id": "T050",
+    "from": "hannah@company.com",
+    "to": [
+      "contact050@globalsystems.com"
+    ],
+    "timestamp": "2026-05-06T20:38:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D050",
+    "thread_id": "T050",
+    "from": "contact050@globalsystems.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-04-07T20:05:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D051",
+    "thread_id": "T051",
+    "from": "george@company.com",
+    "to": [
+      "contact051@futurelabs.com"
+    ],
+    "timestamp": "2026-04-15T00:12:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D051",
+    "thread_id": "T051",
+    "from": "contact051@futurelabs.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-04-02T20:06:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D051",
+    "thread_id": "T051",
+    "from": "george@company.com",
+    "to": [
+      "contact051@futurelabs.com"
+    ],
+    "timestamp": "2026-05-08T01:48:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D051",
+    "thread_id": "T051",
+    "from": "contact051@futurelabs.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-03-24T01:11:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D052",
+    "thread_id": "T052",
+    "from": "alice@company.com",
+    "to": [
+      "contact052@peakpartners.com"
+    ],
+    "timestamp": "2026-04-05T23:55:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D052",
+    "thread_id": "T052",
+    "from": "contact052@peakpartners.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-05-28T18:13:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D052",
+    "thread_id": "T052",
+    "from": "alice@company.com",
+    "to": [
+      "contact052@peakpartners.com"
+    ],
+    "timestamp": "2026-04-13T11:05:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D053",
+    "thread_id": "T053",
+    "from": "george@company.com",
+    "to": [
+      "contact053@totaldynamics.com"
+    ],
+    "timestamp": "2026-03-11T22:41:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D053",
+    "thread_id": "T053",
+    "from": "contact053@totaldynamics.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-03-22T18:43:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D053",
+    "thread_id": "T053",
+    "from": "george@company.com",
+    "to": [
+      "contact053@totaldynamics.com"
+    ],
+    "timestamp": "2026-03-27T06:33:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D053",
+    "thread_id": "T053",
+    "from": "contact053@totaldynamics.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-05-07T17:40:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D054",
+    "thread_id": "T054",
+    "from": "bob@company.com",
+    "to": [
+      "contact054@blueworks.com"
+    ],
+    "timestamp": "2026-05-03T17:27:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D054",
+    "thread_id": "T054",
+    "from": "contact054@blueworks.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-03-20T12:20:00Z",
+    "subject": "Re: Update on Student Performance AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D054",
+    "thread_id": "T054",
+    "from": "bob@company.com",
+    "to": [
+      "contact054@blueworks.com"
+    ],
+    "timestamp": "2026-05-30T18:17:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D055",
+    "thread_id": "T055",
+    "from": "ethan@company.com",
+    "to": [
+      "contact055@totalenterprises.com"
+    ],
+    "timestamp": "2026-04-30T09:26:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D055",
+    "thread_id": "T055",
+    "from": "contact055@totalenterprises.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-05-06T03:55:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D055",
+    "thread_id": "T055",
+    "from": "ethan@company.com",
+    "to": [
+      "contact055@totalenterprises.com"
+    ],
+    "timestamp": "2026-05-17T04:34:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D055",
+    "thread_id": "T055",
+    "from": "contact055@totalenterprises.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-03-31T23:58:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D056",
+    "thread_id": "T056",
+    "from": "ivan@company.com",
+    "to": [
+      "contact056@nextcorp.com"
+    ],
+    "timestamp": "2026-03-26T13:35:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D056",
+    "thread_id": "T056",
+    "from": "contact056@nextcorp.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-03-06T06:02:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D056",
+    "thread_id": "T056",
+    "from": "ivan@company.com",
+    "to": [
+      "contact056@nextcorp.com"
+    ],
+    "timestamp": "2026-05-18T02:16:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D057",
+    "thread_id": "T057",
+    "from": "george@company.com",
+    "to": [
+      "contact057@futurepartners.com"
+    ],
+    "timestamp": "2026-04-12T00:53:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D057",
+    "thread_id": "T057",
+    "from": "contact057@futurepartners.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-05-10T10:39:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D058",
+    "thread_id": "T058",
+    "from": "bob@company.com",
+    "to": [
+      "contact058@smartpartners.com"
+    ],
+    "timestamp": "2026-03-20T04:37:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D058",
+    "thread_id": "T058",
+    "from": "contact058@smartpartners.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-04-04T12:20:00Z",
+    "subject": "Re: Update on Fraud Detection AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D058",
+    "thread_id": "T058",
+    "from": "bob@company.com",
+    "to": [
+      "contact058@smartpartners.com"
+    ],
+    "timestamp": "2026-03-26T19:21:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D059",
+    "thread_id": "T059",
+    "from": "ethan@company.com",
+    "to": [
+      "contact059@globalcorp.com"
+    ],
+    "timestamp": "2026-05-17T19:43:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D059",
+    "thread_id": "T059",
+    "from": "contact059@globalcorp.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-05-22T20:05:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D059",
+    "thread_id": "T059",
+    "from": "ethan@company.com",
+    "to": [
+      "contact059@globalcorp.com"
+    ],
+    "timestamp": "2026-03-03T16:51:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D060",
+    "thread_id": "T060",
+    "from": "bob@company.com",
+    "to": [
+      "contact060@smartsystems.com"
+    ],
+    "timestamp": "2026-03-07T00:09:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D060",
+    "thread_id": "T060",
+    "from": "contact060@smartsystems.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-03-07T15:49:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D060",
+    "thread_id": "T060",
+    "from": "bob@company.com",
+    "to": [
+      "contact060@smartsystems.com"
+    ],
+    "timestamp": "2026-04-02T15:20:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D061",
+    "thread_id": "T061",
+    "from": "ethan@company.com",
+    "to": [
+      "contact061@greeninc.com"
+    ],
+    "timestamp": "2026-04-30T21:04:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D061",
+    "thread_id": "T061",
+    "from": "contact061@greeninc.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-03-14T22:59:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D061",
+    "thread_id": "T061",
+    "from": "ethan@company.com",
+    "to": [
+      "contact061@greeninc.com"
+    ],
+    "timestamp": "2026-03-22T18:53:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D061",
+    "thread_id": "T061",
+    "from": "contact061@greeninc.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-04-07T07:52:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D062",
+    "thread_id": "T062",
+    "from": "george@company.com",
+    "to": [
+      "contact062@totalenterprises.com"
+    ],
+    "timestamp": "2026-05-24T22:36:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D062",
+    "thread_id": "T062",
+    "from": "contact062@totalenterprises.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-04-06T23:23:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D062",
+    "thread_id": "T062",
+    "from": "george@company.com",
+    "to": [
+      "contact062@totalenterprises.com"
+    ],
+    "timestamp": "2026-03-31T13:17:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D062",
+    "thread_id": "T062",
+    "from": "contact062@totalenterprises.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-05-15T13:23:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D063",
+    "thread_id": "T063",
+    "from": "george@company.com",
+    "to": [
+      "contact063@blueworks.com"
+    ],
+    "timestamp": "2026-05-19T18:51:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D063",
+    "thread_id": "T063",
+    "from": "contact063@blueworks.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-04-20T05:08:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D063",
+    "thread_id": "T063",
+    "from": "george@company.com",
+    "to": [
+      "contact063@blueworks.com"
+    ],
+    "timestamp": "2026-03-10T01:42:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D063",
+    "thread_id": "T063",
+    "from": "contact063@blueworks.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-05-17T05:56:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D064",
+    "thread_id": "T064",
+    "from": "charlie@company.com",
+    "to": [
+      "contact064@futurepartners.com"
+    ],
+    "timestamp": "2026-04-10T15:51:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D064",
+    "thread_id": "T064",
+    "from": "contact064@futurepartners.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-03-19T19:28:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D064",
+    "thread_id": "T064",
+    "from": "charlie@company.com",
+    "to": [
+      "contact064@futurepartners.com"
+    ],
+    "timestamp": "2026-04-11T01:11:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D065",
+    "thread_id": "T065",
+    "from": "george@company.com",
+    "to": [
+      "contact065@futurecorp.com"
+    ],
+    "timestamp": "2026-05-22T15:18:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D065",
+    "thread_id": "T065",
+    "from": "contact065@futurecorp.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-04-24T05:50:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D065",
+    "thread_id": "T065",
+    "from": "george@company.com",
+    "to": [
+      "contact065@futurecorp.com"
+    ],
+    "timestamp": "2026-04-18T23:58:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D066",
+    "thread_id": "T066",
+    "from": "charlie@company.com",
+    "to": [
+      "contact066@nextinc.com"
+    ],
+    "timestamp": "2026-05-28T11:07:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D066",
+    "thread_id": "T066",
+    "from": "contact066@nextinc.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-05-09T20:59:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D067",
+    "thread_id": "T067",
+    "from": "charlie@company.com",
+    "to": [
+      "contact067@blueworks.com"
+    ],
+    "timestamp": "2026-03-31T03:59:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D067",
+    "thread_id": "T067",
+    "from": "contact067@blueworks.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-03-04T09:55:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D067",
+    "thread_id": "T067",
+    "from": "charlie@company.com",
+    "to": [
+      "contact067@blueworks.com"
+    ],
+    "timestamp": "2026-03-15T06:57:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D068",
+    "thread_id": "T068",
+    "from": "charlie@company.com",
+    "to": [
+      "contact068@globalpartners.com"
+    ],
+    "timestamp": "2026-04-10T11:25:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D068",
+    "thread_id": "T068",
+    "from": "contact068@globalpartners.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-05-08T22:06:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D069",
+    "thread_id": "T069",
+    "from": "julia@company.com",
+    "to": [
+      "contact069@nextenterprises.com"
+    ],
+    "timestamp": "2026-03-22T18:40:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D069",
+    "thread_id": "T069",
+    "from": "contact069@nextenterprises.com",
+    "to": [
+      "julia@company.com"
+    ],
+    "timestamp": "2026-04-16T03:21:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D070",
+    "thread_id": "T070",
+    "from": "julia@company.com",
+    "to": [
+      "contact070@coresolutions.com"
+    ],
+    "timestamp": "2026-04-27T23:48:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D070",
+    "thread_id": "T070",
+    "from": "contact070@coresolutions.com",
+    "to": [
+      "julia@company.com"
+    ],
+    "timestamp": "2026-05-03T03:53:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D070",
+    "thread_id": "T070",
+    "from": "julia@company.com",
+    "to": [
+      "contact070@coresolutions.com"
+    ],
+    "timestamp": "2026-03-09T22:10:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D070",
+    "thread_id": "T070",
+    "from": "contact070@coresolutions.com",
+    "to": [
+      "julia@company.com"
+    ],
+    "timestamp": "2026-04-22T12:47:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D071",
+    "thread_id": "T071",
+    "from": "julia@company.com",
+    "to": [
+      "contact071@bluelabs.com"
+    ],
+    "timestamp": "2026-03-04T05:29:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D071",
+    "thread_id": "T071",
+    "from": "contact071@bluelabs.com",
+    "to": [
+      "julia@company.com"
+    ],
+    "timestamp": "2026-05-16T00:02:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D071",
+    "thread_id": "T071",
+    "from": "julia@company.com",
+    "to": [
+      "contact071@bluelabs.com"
+    ],
+    "timestamp": "2026-04-18T00:35:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D071",
+    "thread_id": "T071",
+    "from": "contact071@bluelabs.com",
+    "to": [
+      "julia@company.com"
+    ],
+    "timestamp": "2026-03-12T14:26:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D072",
+    "thread_id": "T072",
+    "from": "ethan@company.com",
+    "to": [
+      "contact072@blueworks.com"
+    ],
+    "timestamp": "2026-05-10T07:09:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D072",
+    "thread_id": "T072",
+    "from": "contact072@blueworks.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-04-23T16:57:00Z",
+    "subject": "Re: Update on Fraud Detection AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D072",
+    "thread_id": "T072",
+    "from": "ethan@company.com",
+    "to": [
+      "contact072@blueworks.com"
+    ],
+    "timestamp": "2026-05-06T08:59:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D073",
+    "thread_id": "T073",
+    "from": "diana@company.com",
+    "to": [
+      "contact073@greenenterprises.com"
+    ],
+    "timestamp": "2026-03-28T18:03:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D073",
+    "thread_id": "T073",
+    "from": "contact073@greenenterprises.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-03-06T23:00:00Z",
+    "subject": "Re: Update on Fraud Detection AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D074",
+    "thread_id": "T074",
+    "from": "alice@company.com",
+    "to": [
+      "contact074@smartinc.com"
+    ],
+    "timestamp": "2026-05-28T18:02:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D074",
+    "thread_id": "T074",
+    "from": "contact074@smartinc.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-03-27T06:38:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D075",
+    "thread_id": "T075",
+    "from": "fiona@company.com",
+    "to": [
+      "contact075@peakdynamics.com"
+    ],
+    "timestamp": "2026-05-20T16:33:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D075",
+    "thread_id": "T075",
+    "from": "contact075@peakdynamics.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-05-24T03:59:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D076",
+    "thread_id": "T076",
+    "from": "ivan@company.com",
+    "to": [
+      "contact076@futuresolutions.com"
+    ],
+    "timestamp": "2026-05-25T04:24:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D076",
+    "thread_id": "T076",
+    "from": "contact076@futuresolutions.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-04-10T22:45:00Z",
+    "subject": "Re: Update on Student Performance AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D077",
+    "thread_id": "T077",
+    "from": "ivan@company.com",
+    "to": [
+      "contact077@futurenetwork.com"
+    ],
+    "timestamp": "2026-03-28T04:39:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D077",
+    "thread_id": "T077",
+    "from": "contact077@futurenetwork.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-05-06T05:45:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D077",
+    "thread_id": "T077",
+    "from": "ivan@company.com",
+    "to": [
+      "contact077@futurenetwork.com"
+    ],
+    "timestamp": "2026-03-29T21:39:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D078",
+    "thread_id": "T078",
+    "from": "ethan@company.com",
+    "to": [
+      "contact078@primeinc.com"
+    ],
+    "timestamp": "2026-03-14T13:53:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D078",
+    "thread_id": "T078",
+    "from": "contact078@primeinc.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-05-14T03:58:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D079",
+    "thread_id": "T079",
+    "from": "george@company.com",
+    "to": [
+      "contact079@greendynamics.com"
+    ],
+    "timestamp": "2026-05-23T21:11:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D079",
+    "thread_id": "T079",
+    "from": "contact079@greendynamics.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-04-16T06:54:00Z",
+    "subject": "Re: Update on Student Performance AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D079",
+    "thread_id": "T079",
+    "from": "george@company.com",
+    "to": [
+      "contact079@greendynamics.com"
+    ],
+    "timestamp": "2026-03-10T12:10:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D079",
+    "thread_id": "T079",
+    "from": "contact079@greendynamics.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-05-04T19:26:00Z",
+    "subject": "Re: Update on Student Performance AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D080",
+    "thread_id": "T080",
+    "from": "hannah@company.com",
+    "to": [
+      "contact080@peakcorp.com"
+    ],
+    "timestamp": "2026-03-20T07:28:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D080",
+    "thread_id": "T080",
+    "from": "contact080@peakcorp.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-04-11T08:24:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D080",
+    "thread_id": "T080",
+    "from": "hannah@company.com",
+    "to": [
+      "contact080@peakcorp.com"
+    ],
+    "timestamp": "2026-03-15T18:09:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D081",
+    "thread_id": "T081",
+    "from": "hannah@company.com",
+    "to": [
+      "contact081@primepartners.com"
+    ],
+    "timestamp": "2026-05-27T05:53:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D081",
+    "thread_id": "T081",
+    "from": "contact081@primepartners.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-04-26T22:41:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D081",
+    "thread_id": "T081",
+    "from": "hannah@company.com",
+    "to": [
+      "contact081@primepartners.com"
+    ],
+    "timestamp": "2026-05-28T08:54:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D081",
+    "thread_id": "T081",
+    "from": "contact081@primepartners.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-03-10T18:36:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D082",
+    "thread_id": "T082",
+    "from": "george@company.com",
+    "to": [
+      "contact082@futurelabs.com"
+    ],
+    "timestamp": "2026-05-28T00:26:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D082",
+    "thread_id": "T082",
+    "from": "contact082@futurelabs.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-03-07T01:18:00Z",
+    "subject": "Re: Update on Fraud Detection AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D083",
+    "thread_id": "T083",
+    "from": "diana@company.com",
+    "to": [
+      "contact083@coresolutions.com"
+    ],
+    "timestamp": "2026-03-11T21:09:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D083",
+    "thread_id": "T083",
+    "from": "contact083@coresolutions.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-04-27T17:43:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D083",
+    "thread_id": "T083",
+    "from": "diana@company.com",
+    "to": [
+      "contact083@coresolutions.com"
+    ],
+    "timestamp": "2026-04-24T11:36:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D083",
+    "thread_id": "T083",
+    "from": "contact083@coresolutions.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-03-25T12:05:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D084",
+    "thread_id": "T084",
+    "from": "bob@company.com",
+    "to": [
+      "contact084@primesystems.com"
+    ],
+    "timestamp": "2026-03-20T10:19:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D084",
+    "thread_id": "T084",
+    "from": "contact084@primesystems.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-04-27T12:32:00Z",
+    "subject": "Re: Update on Fraud Detection AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D084",
+    "thread_id": "T084",
+    "from": "bob@company.com",
+    "to": [
+      "contact084@primesystems.com"
+    ],
+    "timestamp": "2026-03-10T12:42:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D084",
+    "thread_id": "T084",
+    "from": "contact084@primesystems.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-04-05T04:32:00Z",
+    "subject": "Re: Update on Fraud Detection AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D085",
+    "thread_id": "T085",
+    "from": "fiona@company.com",
+    "to": [
+      "contact085@corenetwork.com"
+    ],
+    "timestamp": "2026-04-11T20:58:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D085",
+    "thread_id": "T085",
+    "from": "contact085@corenetwork.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-04-23T15:07:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D085",
+    "thread_id": "T085",
+    "from": "fiona@company.com",
+    "to": [
+      "contact085@corenetwork.com"
+    ],
+    "timestamp": "2026-05-01T07:24:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D085",
+    "thread_id": "T085",
+    "from": "contact085@corenetwork.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-05-20T11:13:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D086",
+    "thread_id": "T086",
+    "from": "fiona@company.com",
+    "to": [
+      "contact086@nextenterprises.com"
+    ],
+    "timestamp": "2026-05-07T11:14:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D086",
+    "thread_id": "T086",
+    "from": "contact086@nextenterprises.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-03-09T21:00:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D086",
+    "thread_id": "T086",
+    "from": "fiona@company.com",
+    "to": [
+      "contact086@nextenterprises.com"
+    ],
+    "timestamp": "2026-03-14T10:26:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D087",
+    "thread_id": "T087",
+    "from": "alice@company.com",
+    "to": [
+      "contact087@globalnetwork.com"
+    ],
+    "timestamp": "2026-04-18T10:13:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D087",
+    "thread_id": "T087",
+    "from": "contact087@globalnetwork.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-03-25T18:32:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D087",
+    "thread_id": "T087",
+    "from": "alice@company.com",
+    "to": [
+      "contact087@globalnetwork.com"
+    ],
+    "timestamp": "2026-04-22T04:52:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D087",
+    "thread_id": "T087",
+    "from": "contact087@globalnetwork.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-03-03T22:49:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D088",
+    "thread_id": "T088",
+    "from": "bob@company.com",
+    "to": [
+      "contact088@globalpartners.com"
+    ],
+    "timestamp": "2026-03-09T00:31:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D088",
+    "thread_id": "T088",
+    "from": "contact088@globalpartners.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-05-21T13:01:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D089",
+    "thread_id": "T089",
+    "from": "fiona@company.com",
+    "to": [
+      "contact089@smartlabs.com"
+    ],
+    "timestamp": "2026-03-30T02:18:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D089",
+    "thread_id": "T089",
+    "from": "contact089@smartlabs.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-05-25T18:24:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D089",
+    "thread_id": "T089",
+    "from": "fiona@company.com",
+    "to": [
+      "contact089@smartlabs.com"
+    ],
+    "timestamp": "2026-03-02T15:26:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D090",
+    "thread_id": "T090",
+    "from": "alice@company.com",
+    "to": [
+      "contact090@peakpartners.com"
+    ],
+    "timestamp": "2026-05-10T19:52:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D090",
+    "thread_id": "T090",
+    "from": "contact090@peakpartners.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-04-24T17:23:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D090",
+    "thread_id": "T090",
+    "from": "alice@company.com",
+    "to": [
+      "contact090@peakpartners.com"
+    ],
+    "timestamp": "2026-03-12T21:56:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D091",
+    "thread_id": "T091",
+    "from": "bob@company.com",
+    "to": [
+      "contact091@coreinc.com"
+    ],
+    "timestamp": "2026-04-06T08:15:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D091",
+    "thread_id": "T091",
+    "from": "contact091@coreinc.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-04-11T02:17:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D092",
+    "thread_id": "T092",
+    "from": "charlie@company.com",
+    "to": [
+      "contact092@greeninc.com"
+    ],
+    "timestamp": "2026-04-21T22:09:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D092",
+    "thread_id": "T092",
+    "from": "contact092@greeninc.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-05-20T12:00:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D092",
+    "thread_id": "T092",
+    "from": "charlie@company.com",
+    "to": [
+      "contact092@greeninc.com"
+    ],
+    "timestamp": "2026-03-16T18:17:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D092",
+    "thread_id": "T092",
+    "from": "contact092@greeninc.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-05-30T08:25:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D093",
+    "thread_id": "T093",
+    "from": "fiona@company.com",
+    "to": [
+      "contact093@smartdynamics.com"
+    ],
+    "timestamp": "2026-03-30T17:34:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D093",
+    "thread_id": "T093",
+    "from": "contact093@smartdynamics.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-05-11T12:47:00Z",
+    "subject": "Re: Update on Student Performance AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D094",
+    "thread_id": "T094",
+    "from": "alice@company.com",
+    "to": [
+      "contact094@primeworks.com"
+    ],
+    "timestamp": "2026-03-27T15:23:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D094",
+    "thread_id": "T094",
+    "from": "contact094@primeworks.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-05-16T18:23:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D095",
+    "thread_id": "T095",
+    "from": "diana@company.com",
+    "to": [
+      "contact095@bluelabs.com"
+    ],
+    "timestamp": "2026-04-30T07:04:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D095",
+    "thread_id": "T095",
+    "from": "contact095@bluelabs.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-05-17T01:37:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D096",
+    "thread_id": "T096",
+    "from": "fiona@company.com",
+    "to": [
+      "contact096@nextpartners.com"
+    ],
+    "timestamp": "2026-03-01T01:53:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D096",
+    "thread_id": "T096",
+    "from": "contact096@nextpartners.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-04-17T02:46:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D097",
+    "thread_id": "T097",
+    "from": "ivan@company.com",
+    "to": [
+      "contact097@totalenterprises.com"
+    ],
+    "timestamp": "2026-05-20T22:27:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D097",
+    "thread_id": "T097",
+    "from": "contact097@totalenterprises.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-04-18T23:20:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D097",
+    "thread_id": "T097",
+    "from": "ivan@company.com",
+    "to": [
+      "contact097@totalenterprises.com"
+    ],
+    "timestamp": "2026-04-05T08:48:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D097",
+    "thread_id": "T097",
+    "from": "contact097@totalenterprises.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-03-27T09:43:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D098",
+    "thread_id": "T098",
+    "from": "fiona@company.com",
+    "to": [
+      "contact098@nextsolutions.com"
+    ],
+    "timestamp": "2026-05-05T17:34:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D098",
+    "thread_id": "T098",
+    "from": "contact098@nextsolutions.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-03-09T09:55:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D098",
+    "thread_id": "T098",
+    "from": "fiona@company.com",
+    "to": [
+      "contact098@nextsolutions.com"
+    ],
+    "timestamp": "2026-04-26T02:09:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D099",
+    "thread_id": "T099",
+    "from": "bob@company.com",
+    "to": [
+      "contact099@totallabs.com"
+    ],
+    "timestamp": "2026-04-03T07:22:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D099",
+    "thread_id": "T099",
+    "from": "contact099@totallabs.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-05-20T04:56:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D100",
+    "thread_id": "T100",
+    "from": "fiona@company.com",
+    "to": [
+      "contact100@corepartners.com"
+    ],
+    "timestamp": "2026-05-13T22:12:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D100",
+    "thread_id": "T100",
+    "from": "contact100@corepartners.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-03-13T12:06:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D101",
+    "thread_id": "T101",
+    "from": "george@company.com",
+    "to": [
+      "contact101@nextsolutions.com"
+    ],
+    "timestamp": "2026-03-22T04:23:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D101",
+    "thread_id": "T101",
+    "from": "contact101@nextsolutions.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-04-11T19:39:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D101",
+    "thread_id": "T101",
+    "from": "george@company.com",
+    "to": [
+      "contact101@nextsolutions.com"
+    ],
+    "timestamp": "2026-05-04T12:12:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D101",
+    "thread_id": "T101",
+    "from": "contact101@nextsolutions.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-04-17T15:33:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D102",
+    "thread_id": "T102",
+    "from": "george@company.com",
+    "to": [
+      "contact102@globalnetwork.com"
+    ],
+    "timestamp": "2026-05-23T02:09:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D102",
+    "thread_id": "T102",
+    "from": "contact102@globalnetwork.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-03-14T09:54:00Z",
+    "subject": "Re: Update on Fraud Detection AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D102",
+    "thread_id": "T102",
+    "from": "george@company.com",
+    "to": [
+      "contact102@globalnetwork.com"
+    ],
+    "timestamp": "2026-05-23T13:53:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D102",
+    "thread_id": "T102",
+    "from": "contact102@globalnetwork.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-05-23T11:01:00Z",
+    "subject": "Re: Update on Fraud Detection AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D103",
+    "thread_id": "T103",
+    "from": "ethan@company.com",
+    "to": [
+      "contact103@primeworks.com"
+    ],
+    "timestamp": "2026-03-21T01:26:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D103",
+    "thread_id": "T103",
+    "from": "contact103@primeworks.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-03-27T02:28:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D104",
+    "thread_id": "T104",
+    "from": "bob@company.com",
+    "to": [
+      "contact104@totalenterprises.com"
+    ],
+    "timestamp": "2026-05-04T12:38:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D104",
+    "thread_id": "T104",
+    "from": "contact104@totalenterprises.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-04-11T03:01:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D105",
+    "thread_id": "T105",
+    "from": "hannah@company.com",
+    "to": [
+      "contact105@smartinc.com"
+    ],
+    "timestamp": "2026-03-19T06:04:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D105",
+    "thread_id": "T105",
+    "from": "contact105@smartinc.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-04-04T10:39:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D105",
+    "thread_id": "T105",
+    "from": "hannah@company.com",
+    "to": [
+      "contact105@smartinc.com"
+    ],
+    "timestamp": "2026-04-06T00:54:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D105",
+    "thread_id": "T105",
+    "from": "contact105@smartinc.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-04-07T21:08:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D106",
+    "thread_id": "T106",
+    "from": "charlie@company.com",
+    "to": [
+      "contact106@globalcorp.com"
+    ],
+    "timestamp": "2026-05-30T22:37:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D106",
+    "thread_id": "T106",
+    "from": "contact106@globalcorp.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-05-16T04:45:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D107",
+    "thread_id": "T107",
+    "from": "ivan@company.com",
+    "to": [
+      "contact107@futurenetwork.com"
+    ],
+    "timestamp": "2026-03-12T20:44:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D107",
+    "thread_id": "T107",
+    "from": "contact107@futurenetwork.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-05-10T16:28:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D107",
+    "thread_id": "T107",
+    "from": "ivan@company.com",
+    "to": [
+      "contact107@futurenetwork.com"
+    ],
+    "timestamp": "2026-03-03T09:09:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D108",
+    "thread_id": "T108",
+    "from": "ethan@company.com",
+    "to": [
+      "contact108@bluenetwork.com"
+    ],
+    "timestamp": "2026-03-20T02:51:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D108",
+    "thread_id": "T108",
+    "from": "contact108@bluenetwork.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-05-06T10:27:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D108",
+    "thread_id": "T108",
+    "from": "ethan@company.com",
+    "to": [
+      "contact108@bluenetwork.com"
+    ],
+    "timestamp": "2026-04-10T05:35:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D108",
+    "thread_id": "T108",
+    "from": "contact108@bluenetwork.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-05-10T10:09:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D109",
+    "thread_id": "T109",
+    "from": "george@company.com",
+    "to": [
+      "contact109@totalinc.com"
+    ],
+    "timestamp": "2026-04-04T21:01:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D109",
+    "thread_id": "T109",
+    "from": "contact109@totalinc.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-04-10T14:21:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D110",
+    "thread_id": "T110",
+    "from": "bob@company.com",
+    "to": [
+      "contact110@nextnetwork.com"
+    ],
+    "timestamp": "2026-03-26T13:39:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D110",
+    "thread_id": "T110",
+    "from": "contact110@nextnetwork.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-03-10T11:11:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D110",
+    "thread_id": "T110",
+    "from": "bob@company.com",
+    "to": [
+      "contact110@nextnetwork.com"
+    ],
+    "timestamp": "2026-05-29T22:36:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D111",
+    "thread_id": "T111",
+    "from": "bob@company.com",
+    "to": [
+      "contact111@primepartners.com"
+    ],
+    "timestamp": "2026-05-04T12:40:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D111",
+    "thread_id": "T111",
+    "from": "contact111@primepartners.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-04-13T05:26:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D111",
+    "thread_id": "T111",
+    "from": "bob@company.com",
+    "to": [
+      "contact111@primepartners.com"
+    ],
+    "timestamp": "2026-04-07T10:04:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D112",
+    "thread_id": "T112",
+    "from": "ivan@company.com",
+    "to": [
+      "contact112@greensystems.com"
+    ],
+    "timestamp": "2026-05-03T07:45:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D112",
+    "thread_id": "T112",
+    "from": "contact112@greensystems.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-03-08T07:34:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D112",
+    "thread_id": "T112",
+    "from": "ivan@company.com",
+    "to": [
+      "contact112@greensystems.com"
+    ],
+    "timestamp": "2026-04-27T14:30:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D113",
+    "thread_id": "T113",
+    "from": "diana@company.com",
+    "to": [
+      "contact113@peakenterprises.com"
+    ],
+    "timestamp": "2026-03-21T22:54:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D113",
+    "thread_id": "T113",
+    "from": "contact113@peakenterprises.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-04-03T22:56:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D114",
+    "thread_id": "T114",
+    "from": "george@company.com",
+    "to": [
+      "contact114@totalenterprises.com"
+    ],
+    "timestamp": "2026-03-13T14:12:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D114",
+    "thread_id": "T114",
+    "from": "contact114@totalenterprises.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-04-22T09:03:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D114",
+    "thread_id": "T114",
+    "from": "george@company.com",
+    "to": [
+      "contact114@totalenterprises.com"
+    ],
+    "timestamp": "2026-03-07T13:22:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D114",
+    "thread_id": "T114",
+    "from": "contact114@totalenterprises.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-03-12T21:45:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D115",
+    "thread_id": "T115",
+    "from": "bob@company.com",
+    "to": [
+      "contact115@bluepartners.com"
+    ],
+    "timestamp": "2026-04-09T15:27:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D115",
+    "thread_id": "T115",
+    "from": "contact115@bluepartners.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-04-27T14:32:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D116",
+    "thread_id": "T116",
+    "from": "bob@company.com",
+    "to": [
+      "contact116@primedynamics.com"
+    ],
+    "timestamp": "2026-03-01T21:57:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D116",
+    "thread_id": "T116",
+    "from": "contact116@primedynamics.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-03-03T08:53:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D116",
+    "thread_id": "T116",
+    "from": "bob@company.com",
+    "to": [
+      "contact116@primedynamics.com"
+    ],
+    "timestamp": "2026-03-01T13:18:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D116",
+    "thread_id": "T116",
+    "from": "contact116@primedynamics.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-04-09T17:00:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D117",
+    "thread_id": "T117",
+    "from": "alice@company.com",
+    "to": [
+      "contact117@primesolutions.com"
+    ],
+    "timestamp": "2026-03-28T11:25:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D117",
+    "thread_id": "T117",
+    "from": "contact117@primesolutions.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-04-30T17:24:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D118",
+    "thread_id": "T118",
+    "from": "charlie@company.com",
+    "to": [
+      "contact118@totalpartners.com"
+    ],
+    "timestamp": "2026-05-21T21:36:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D118",
+    "thread_id": "T118",
+    "from": "contact118@totalpartners.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-04-03T03:33:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D119",
+    "thread_id": "T119",
+    "from": "ivan@company.com",
+    "to": [
+      "contact119@peakpartners.com"
+    ],
+    "timestamp": "2026-04-27T07:29:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D119",
+    "thread_id": "T119",
+    "from": "contact119@peakpartners.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-05-27T18:11:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D120",
+    "thread_id": "T120",
+    "from": "charlie@company.com",
+    "to": [
+      "contact120@primesolutions.com"
+    ],
+    "timestamp": "2026-04-17T04:41:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D120",
+    "thread_id": "T120",
+    "from": "contact120@primesolutions.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-04-29T23:50:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D120",
+    "thread_id": "T120",
+    "from": "charlie@company.com",
+    "to": [
+      "contact120@primesolutions.com"
+    ],
+    "timestamp": "2026-05-10T23:14:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D120",
+    "thread_id": "T120",
+    "from": "contact120@primesolutions.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-03-14T08:22:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D121",
+    "thread_id": "T121",
+    "from": "diana@company.com",
+    "to": [
+      "contact121@nextnetwork.com"
+    ],
+    "timestamp": "2026-04-14T03:08:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D121",
+    "thread_id": "T121",
+    "from": "contact121@nextnetwork.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-04-02T12:57:00Z",
+    "subject": "Re: Update on Fraud Detection AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D121",
+    "thread_id": "T121",
+    "from": "diana@company.com",
+    "to": [
+      "contact121@nextnetwork.com"
+    ],
+    "timestamp": "2026-04-29T13:42:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D122",
+    "thread_id": "T122",
+    "from": "bob@company.com",
+    "to": [
+      "contact122@totalsystems.com"
+    ],
+    "timestamp": "2026-03-07T08:15:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D122",
+    "thread_id": "T122",
+    "from": "contact122@totalsystems.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-04-08T10:48:00Z",
+    "subject": "Re: Update on Student Performance AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D122",
+    "thread_id": "T122",
+    "from": "bob@company.com",
+    "to": [
+      "contact122@totalsystems.com"
+    ],
+    "timestamp": "2026-05-22T21:59:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D123",
+    "thread_id": "T123",
+    "from": "bob@company.com",
+    "to": [
+      "contact123@primelabs.com"
+    ],
+    "timestamp": "2026-03-22T06:49:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D123",
+    "thread_id": "T123",
+    "from": "contact123@primelabs.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-05-12T16:59:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D123",
+    "thread_id": "T123",
+    "from": "bob@company.com",
+    "to": [
+      "contact123@primelabs.com"
+    ],
+    "timestamp": "2026-04-17T11:00:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D124",
+    "thread_id": "T124",
+    "from": "ivan@company.com",
+    "to": [
+      "contact124@futurelabs.com"
+    ],
+    "timestamp": "2026-03-11T12:24:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D124",
+    "thread_id": "T124",
+    "from": "contact124@futurelabs.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-03-31T16:31:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D124",
+    "thread_id": "T124",
+    "from": "ivan@company.com",
+    "to": [
+      "contact124@futurelabs.com"
+    ],
+    "timestamp": "2026-05-20T06:23:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D125",
+    "thread_id": "T125",
+    "from": "ivan@company.com",
+    "to": [
+      "contact125@nextenterprises.com"
+    ],
+    "timestamp": "2026-05-27T10:34:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D125",
+    "thread_id": "T125",
+    "from": "contact125@nextenterprises.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-04-21T02:03:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D125",
+    "thread_id": "T125",
+    "from": "ivan@company.com",
+    "to": [
+      "contact125@nextenterprises.com"
+    ],
+    "timestamp": "2026-03-17T03:05:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D126",
+    "thread_id": "T126",
+    "from": "diana@company.com",
+    "to": [
+      "contact126@nextnetwork.com"
+    ],
+    "timestamp": "2026-05-21T12:59:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D126",
+    "thread_id": "T126",
+    "from": "contact126@nextnetwork.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-03-31T18:15:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D126",
+    "thread_id": "T126",
+    "from": "diana@company.com",
+    "to": [
+      "contact126@nextnetwork.com"
+    ],
+    "timestamp": "2026-03-05T00:34:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D127",
+    "thread_id": "T127",
+    "from": "ethan@company.com",
+    "to": [
+      "contact127@primecorp.com"
+    ],
+    "timestamp": "2026-04-25T03:07:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D127",
+    "thread_id": "T127",
+    "from": "contact127@primecorp.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-03-02T01:16:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D127",
+    "thread_id": "T127",
+    "from": "ethan@company.com",
+    "to": [
+      "contact127@primecorp.com"
+    ],
+    "timestamp": "2026-03-15T21:44:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D128",
+    "thread_id": "T128",
+    "from": "fiona@company.com",
+    "to": [
+      "contact128@bluesolutions.com"
+    ],
+    "timestamp": "2026-04-18T17:52:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D128",
+    "thread_id": "T128",
+    "from": "contact128@bluesolutions.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-04-10T14:13:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D129",
+    "thread_id": "T129",
+    "from": "fiona@company.com",
+    "to": [
+      "contact129@greendynamics.com"
+    ],
+    "timestamp": "2026-03-16T04:35:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D129",
+    "thread_id": "T129",
+    "from": "contact129@greendynamics.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-05-25T05:22:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D130",
+    "thread_id": "T130",
+    "from": "alice@company.com",
+    "to": [
+      "contact130@totalcorp.com"
+    ],
+    "timestamp": "2026-04-15T13:42:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D130",
+    "thread_id": "T130",
+    "from": "contact130@totalcorp.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-05-29T04:41:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D130",
+    "thread_id": "T130",
+    "from": "alice@company.com",
+    "to": [
+      "contact130@totalcorp.com"
+    ],
+    "timestamp": "2026-03-31T15:39:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D131",
+    "thread_id": "T131",
+    "from": "fiona@company.com",
+    "to": [
+      "contact131@globalsystems.com"
+    ],
+    "timestamp": "2026-04-18T13:39:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D131",
+    "thread_id": "T131",
+    "from": "contact131@globalsystems.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-04-04T02:21:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D131",
+    "thread_id": "T131",
+    "from": "fiona@company.com",
+    "to": [
+      "contact131@globalsystems.com"
+    ],
+    "timestamp": "2026-03-10T06:34:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D132",
+    "thread_id": "T132",
+    "from": "hannah@company.com",
+    "to": [
+      "contact132@nextpartners.com"
+    ],
+    "timestamp": "2026-05-13T15:30:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D132",
+    "thread_id": "T132",
+    "from": "contact132@nextpartners.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-04-03T02:11:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D132",
+    "thread_id": "T132",
+    "from": "hannah@company.com",
+    "to": [
+      "contact132@nextpartners.com"
+    ],
+    "timestamp": "2026-04-05T03:55:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D132",
+    "thread_id": "T132",
+    "from": "contact132@nextpartners.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-03-12T16:59:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D133",
+    "thread_id": "T133",
+    "from": "alice@company.com",
+    "to": [
+      "contact133@peakcorp.com"
+    ],
+    "timestamp": "2026-05-22T10:33:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D133",
+    "thread_id": "T133",
+    "from": "contact133@peakcorp.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-04-13T20:30:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D133",
+    "thread_id": "T133",
+    "from": "alice@company.com",
+    "to": [
+      "contact133@peakcorp.com"
+    ],
+    "timestamp": "2026-05-12T10:27:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D133",
+    "thread_id": "T133",
+    "from": "contact133@peakcorp.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-05-01T19:30:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D134",
+    "thread_id": "T134",
+    "from": "hannah@company.com",
+    "to": [
+      "contact134@primesystems.com"
+    ],
+    "timestamp": "2026-03-27T20:33:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D134",
+    "thread_id": "T134",
+    "from": "contact134@primesystems.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-03-17T11:46:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D135",
+    "thread_id": "T135",
+    "from": "alice@company.com",
+    "to": [
+      "contact135@nextpartners.com"
+    ],
+    "timestamp": "2026-05-03T11:25:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D135",
+    "thread_id": "T135",
+    "from": "contact135@nextpartners.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-03-02T15:32:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D135",
+    "thread_id": "T135",
+    "from": "alice@company.com",
+    "to": [
+      "contact135@nextpartners.com"
+    ],
+    "timestamp": "2026-04-20T15:01:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D135",
+    "thread_id": "T135",
+    "from": "contact135@nextpartners.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-04-02T11:47:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D136",
+    "thread_id": "T136",
+    "from": "hannah@company.com",
+    "to": [
+      "contact136@peaklabs.com"
+    ],
+    "timestamp": "2026-03-07T04:46:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D136",
+    "thread_id": "T136",
+    "from": "contact136@peaklabs.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-04-10T07:19:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D137",
+    "thread_id": "T137",
+    "from": "julia@company.com",
+    "to": [
+      "contact137@corelabs.com"
+    ],
+    "timestamp": "2026-05-08T22:14:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D137",
+    "thread_id": "T137",
+    "from": "contact137@corelabs.com",
+    "to": [
+      "julia@company.com"
+    ],
+    "timestamp": "2026-05-24T22:47:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D138",
+    "thread_id": "T138",
+    "from": "charlie@company.com",
+    "to": [
+      "contact138@totalenterprises.com"
+    ],
+    "timestamp": "2026-03-13T09:02:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D138",
+    "thread_id": "T138",
+    "from": "contact138@totalenterprises.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-04-30T11:11:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D138",
+    "thread_id": "T138",
+    "from": "charlie@company.com",
+    "to": [
+      "contact138@totalenterprises.com"
+    ],
+    "timestamp": "2026-03-25T19:47:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D139",
+    "thread_id": "T139",
+    "from": "hannah@company.com",
+    "to": [
+      "contact139@nextinc.com"
+    ],
+    "timestamp": "2026-03-27T21:18:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D139",
+    "thread_id": "T139",
+    "from": "contact139@nextinc.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-05-21T00:17:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D139",
+    "thread_id": "T139",
+    "from": "hannah@company.com",
+    "to": [
+      "contact139@nextinc.com"
+    ],
+    "timestamp": "2026-04-26T20:04:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D139",
+    "thread_id": "T139",
+    "from": "contact139@nextinc.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-04-16T09:28:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D140",
+    "thread_id": "T140",
+    "from": "bob@company.com",
+    "to": [
+      "contact140@primelabs.com"
+    ],
+    "timestamp": "2026-05-29T05:30:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D140",
+    "thread_id": "T140",
+    "from": "contact140@primelabs.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-05-02T08:49:00Z",
+    "subject": "Re: Update on Fraud Detection AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D141",
+    "thread_id": "T141",
+    "from": "alice@company.com",
+    "to": [
+      "contact141@primepartners.com"
+    ],
+    "timestamp": "2026-04-06T09:53:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D141",
+    "thread_id": "T141",
+    "from": "contact141@primepartners.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-05-10T00:26:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D141",
+    "thread_id": "T141",
+    "from": "alice@company.com",
+    "to": [
+      "contact141@primepartners.com"
+    ],
+    "timestamp": "2026-03-26T16:56:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D141",
+    "thread_id": "T141",
+    "from": "contact141@primepartners.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-04-15T10:27:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D142",
+    "thread_id": "T142",
+    "from": "bob@company.com",
+    "to": [
+      "contact142@totalenterprises.com"
+    ],
+    "timestamp": "2026-04-28T00:49:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D142",
+    "thread_id": "T142",
+    "from": "contact142@totalenterprises.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-03-12T10:22:00Z",
+    "subject": "Re: Update on Student Performance AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D142",
+    "thread_id": "T142",
+    "from": "bob@company.com",
+    "to": [
+      "contact142@totalenterprises.com"
+    ],
+    "timestamp": "2026-04-27T18:55:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D142",
+    "thread_id": "T142",
+    "from": "contact142@totalenterprises.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-03-05T09:36:00Z",
+    "subject": "Re: Update on Student Performance AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D143",
+    "thread_id": "T143",
+    "from": "ethan@company.com",
+    "to": [
+      "contact143@primelabs.com"
+    ],
+    "timestamp": "2026-05-28T20:27:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D143",
+    "thread_id": "T143",
+    "from": "contact143@primelabs.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-04-17T00:55:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D143",
+    "thread_id": "T143",
+    "from": "ethan@company.com",
+    "to": [
+      "contact143@primelabs.com"
+    ],
+    "timestamp": "2026-03-27T05:09:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D144",
+    "thread_id": "T144",
+    "from": "ethan@company.com",
+    "to": [
+      "contact144@smartsystems.com"
+    ],
+    "timestamp": "2026-05-03T05:43:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D144",
+    "thread_id": "T144",
+    "from": "contact144@smartsystems.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-05-29T01:16:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D144",
+    "thread_id": "T144",
+    "from": "ethan@company.com",
+    "to": [
+      "contact144@smartsystems.com"
+    ],
+    "timestamp": "2026-05-08T11:27:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D144",
+    "thread_id": "T144",
+    "from": "contact144@smartsystems.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-05-05T08:41:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D145",
+    "thread_id": "T145",
+    "from": "ivan@company.com",
+    "to": [
+      "contact145@primeinc.com"
+    ],
+    "timestamp": "2026-05-18T07:29:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D145",
+    "thread_id": "T145",
+    "from": "contact145@primeinc.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-04-30T10:34:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D145",
+    "thread_id": "T145",
+    "from": "ivan@company.com",
+    "to": [
+      "contact145@primeinc.com"
+    ],
+    "timestamp": "2026-03-16T02:51:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D145",
+    "thread_id": "T145",
+    "from": "contact145@primeinc.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-04-28T18:12:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D146",
+    "thread_id": "T146",
+    "from": "diana@company.com",
+    "to": [
+      "contact146@coresolutions.com"
+    ],
+    "timestamp": "2026-04-14T13:21:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D146",
+    "thread_id": "T146",
+    "from": "contact146@coresolutions.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-05-27T01:20:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D146",
+    "thread_id": "T146",
+    "from": "diana@company.com",
+    "to": [
+      "contact146@coresolutions.com"
+    ],
+    "timestamp": "2026-05-18T20:26:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D146",
+    "thread_id": "T146",
+    "from": "contact146@coresolutions.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-04-24T11:42:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D147",
+    "thread_id": "T147",
+    "from": "fiona@company.com",
+    "to": [
+      "contact147@totalcorp.com"
+    ],
+    "timestamp": "2026-04-23T06:49:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D147",
+    "thread_id": "T147",
+    "from": "contact147@totalcorp.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-04-10T12:26:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D147",
+    "thread_id": "T147",
+    "from": "fiona@company.com",
+    "to": [
+      "contact147@totalcorp.com"
+    ],
+    "timestamp": "2026-05-15T17:36:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D148",
+    "thread_id": "T148",
+    "from": "diana@company.com",
+    "to": [
+      "contact148@totaldynamics.com"
+    ],
+    "timestamp": "2026-05-17T06:34:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D148",
+    "thread_id": "T148",
+    "from": "contact148@totaldynamics.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-05-15T01:55:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D149",
+    "thread_id": "T149",
+    "from": "hannah@company.com",
+    "to": [
+      "contact149@greensolutions.com"
+    ],
+    "timestamp": "2026-03-13T10:03:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D149",
+    "thread_id": "T149",
+    "from": "contact149@greensolutions.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-03-15T01:51:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D149",
+    "thread_id": "T149",
+    "from": "hannah@company.com",
+    "to": [
+      "contact149@greensolutions.com"
+    ],
+    "timestamp": "2026-05-25T06:38:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D150",
+    "thread_id": "T150",
+    "from": "george@company.com",
+    "to": [
+      "contact150@coredynamics.com"
+    ],
+    "timestamp": "2026-05-23T23:04:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D150",
+    "thread_id": "T150",
+    "from": "contact150@coredynamics.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-05-25T00:44:00Z",
+    "subject": "Re: Update on Student Performance AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D150",
+    "thread_id": "T150",
+    "from": "george@company.com",
+    "to": [
+      "contact150@coredynamics.com"
+    ],
+    "timestamp": "2026-04-12T14:41:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D150",
+    "thread_id": "T150",
+    "from": "contact150@coredynamics.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-05-23T02:31:00Z",
+    "subject": "Re: Update on Student Performance AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D151",
+    "thread_id": "T151",
+    "from": "ethan@company.com",
+    "to": [
+      "contact151@greenlabs.com"
+    ],
+    "timestamp": "2026-05-19T08:49:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D151",
+    "thread_id": "T151",
+    "from": "contact151@greenlabs.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-03-11T07:45:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D151",
+    "thread_id": "T151",
+    "from": "ethan@company.com",
+    "to": [
+      "contact151@greenlabs.com"
+    ],
+    "timestamp": "2026-03-12T15:53:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D152",
+    "thread_id": "T152",
+    "from": "hannah@company.com",
+    "to": [
+      "contact152@nextnetwork.com"
+    ],
+    "timestamp": "2026-04-16T16:44:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D152",
+    "thread_id": "T152",
+    "from": "contact152@nextnetwork.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-05-09T18:35:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D152",
+    "thread_id": "T152",
+    "from": "hannah@company.com",
+    "to": [
+      "contact152@nextnetwork.com"
+    ],
+    "timestamp": "2026-05-18T18:20:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D153",
+    "thread_id": "T153",
+    "from": "alice@company.com",
+    "to": [
+      "contact153@bluenetwork.com"
+    ],
+    "timestamp": "2026-04-28T02:35:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D153",
+    "thread_id": "T153",
+    "from": "contact153@bluenetwork.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-03-06T11:35:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D154",
+    "thread_id": "T154",
+    "from": "diana@company.com",
+    "to": [
+      "contact154@bluenetwork.com"
+    ],
+    "timestamp": "2026-05-11T11:08:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D154",
+    "thread_id": "T154",
+    "from": "contact154@bluenetwork.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-03-16T01:23:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D155",
+    "thread_id": "T155",
+    "from": "diana@company.com",
+    "to": [
+      "contact155@greendynamics.com"
+    ],
+    "timestamp": "2026-03-18T06:57:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D155",
+    "thread_id": "T155",
+    "from": "contact155@greendynamics.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-05-18T15:35:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D155",
+    "thread_id": "T155",
+    "from": "diana@company.com",
+    "to": [
+      "contact155@greendynamics.com"
+    ],
+    "timestamp": "2026-05-11T21:05:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D156",
+    "thread_id": "T156",
+    "from": "ivan@company.com",
+    "to": [
+      "contact156@primesystems.com"
+    ],
+    "timestamp": "2026-03-20T12:40:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D156",
+    "thread_id": "T156",
+    "from": "contact156@primesystems.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-05-27T03:11:00Z",
+    "subject": "Re: Update on Fraud Detection AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D156",
+    "thread_id": "T156",
+    "from": "ivan@company.com",
+    "to": [
+      "contact156@primesystems.com"
+    ],
+    "timestamp": "2026-05-06T07:03:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D157",
+    "thread_id": "T157",
+    "from": "hannah@company.com",
+    "to": [
+      "contact157@peakworks.com"
+    ],
+    "timestamp": "2026-03-05T19:33:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D157",
+    "thread_id": "T157",
+    "from": "contact157@peakworks.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-04-13T01:13:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D157",
+    "thread_id": "T157",
+    "from": "hannah@company.com",
+    "to": [
+      "contact157@peakworks.com"
+    ],
+    "timestamp": "2026-04-29T19:26:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D158",
+    "thread_id": "T158",
+    "from": "hannah@company.com",
+    "to": [
+      "contact158@nextinc.com"
+    ],
+    "timestamp": "2026-03-03T20:55:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D158",
+    "thread_id": "T158",
+    "from": "contact158@nextinc.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-03-26T04:16:00Z",
+    "subject": "Re: Update on Student Performance AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D158",
+    "thread_id": "T158",
+    "from": "hannah@company.com",
+    "to": [
+      "contact158@nextinc.com"
+    ],
+    "timestamp": "2026-03-03T08:46:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D159",
+    "thread_id": "T159",
+    "from": "charlie@company.com",
+    "to": [
+      "contact159@blueworks.com"
+    ],
+    "timestamp": "2026-05-22T01:56:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D159",
+    "thread_id": "T159",
+    "from": "contact159@blueworks.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-05-12T17:30:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D159",
+    "thread_id": "T159",
+    "from": "charlie@company.com",
+    "to": [
+      "contact159@blueworks.com"
+    ],
+    "timestamp": "2026-03-20T20:52:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D159",
+    "thread_id": "T159",
+    "from": "contact159@blueworks.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-04-26T01:41:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D160",
+    "thread_id": "T160",
+    "from": "ethan@company.com",
+    "to": [
+      "contact160@smartnetwork.com"
+    ],
+    "timestamp": "2026-03-19T02:00:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D160",
+    "thread_id": "T160",
+    "from": "contact160@smartnetwork.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-04-02T08:31:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D160",
+    "thread_id": "T160",
+    "from": "ethan@company.com",
+    "to": [
+      "contact160@smartnetwork.com"
+    ],
+    "timestamp": "2026-03-24T23:10:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D161",
+    "thread_id": "T161",
+    "from": "ethan@company.com",
+    "to": [
+      "contact161@coreworks.com"
+    ],
+    "timestamp": "2026-03-07T13:02:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D161",
+    "thread_id": "T161",
+    "from": "contact161@coreworks.com",
+    "to": [
+      "ethan@company.com"
+    ],
+    "timestamp": "2026-05-16T02:04:00Z",
+    "subject": "Re: Update on Fraud Detection AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D162",
+    "thread_id": "T162",
+    "from": "ivan@company.com",
+    "to": [
+      "contact162@globalworks.com"
+    ],
+    "timestamp": "2026-04-02T18:28:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D162",
+    "thread_id": "T162",
+    "from": "contact162@globalworks.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-03-04T20:48:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D163",
+    "thread_id": "T163",
+    "from": "hannah@company.com",
+    "to": [
+      "contact163@totalcorp.com"
+    ],
+    "timestamp": "2026-04-11T03:34:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D163",
+    "thread_id": "T163",
+    "from": "contact163@totalcorp.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-04-14T17:53:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D163",
+    "thread_id": "T163",
+    "from": "hannah@company.com",
+    "to": [
+      "contact163@totalcorp.com"
+    ],
+    "timestamp": "2026-03-22T09:49:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D163",
+    "thread_id": "T163",
+    "from": "contact163@totalcorp.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-05-07T07:05:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D164",
+    "thread_id": "T164",
+    "from": "fiona@company.com",
+    "to": [
+      "contact164@greenlabs.com"
+    ],
+    "timestamp": "2026-04-10T04:36:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D164",
+    "thread_id": "T164",
+    "from": "contact164@greenlabs.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-05-11T12:04:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D165",
+    "thread_id": "T165",
+    "from": "julia@company.com",
+    "to": [
+      "contact165@bluepartners.com"
+    ],
+    "timestamp": "2026-04-26T12:09:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D165",
+    "thread_id": "T165",
+    "from": "contact165@bluepartners.com",
+    "to": [
+      "julia@company.com"
+    ],
+    "timestamp": "2026-03-02T07:32:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D166",
+    "thread_id": "T166",
+    "from": "bob@company.com",
+    "to": [
+      "contact166@nextinc.com"
+    ],
+    "timestamp": "2026-04-03T08:02:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D166",
+    "thread_id": "T166",
+    "from": "contact166@nextinc.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-03-17T23:10:00Z",
+    "subject": "Re: Update on Student Performance AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D166",
+    "thread_id": "T166",
+    "from": "bob@company.com",
+    "to": [
+      "contact166@nextinc.com"
+    ],
+    "timestamp": "2026-04-14T03:26:00Z",
+    "subject": "Update on Student Performance AI",
+    "body": "Hi, here is an update on the Student Performance AI opportunity."
+  },
+  {
+    "deal_id": "D166",
+    "thread_id": "T166",
+    "from": "contact166@nextinc.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-03-24T14:12:00Z",
+    "subject": "Re: Update on Student Performance AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D167",
+    "thread_id": "T167",
+    "from": "alice@company.com",
+    "to": [
+      "contact167@smartlabs.com"
+    ],
+    "timestamp": "2026-04-30T17:09:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D167",
+    "thread_id": "T167",
+    "from": "contact167@smartlabs.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-05-01T03:18:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D168",
+    "thread_id": "T168",
+    "from": "bob@company.com",
+    "to": [
+      "contact168@peakworks.com"
+    ],
+    "timestamp": "2026-05-13T07:49:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D168",
+    "thread_id": "T168",
+    "from": "contact168@peakworks.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-05-01T23:36:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D168",
+    "thread_id": "T168",
+    "from": "bob@company.com",
+    "to": [
+      "contact168@peakworks.com"
+    ],
+    "timestamp": "2026-05-15T14:28:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D168",
+    "thread_id": "T168",
+    "from": "contact168@peakworks.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-05-28T18:18:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D169",
+    "thread_id": "T169",
+    "from": "diana@company.com",
+    "to": [
+      "contact169@primenetwork.com"
+    ],
+    "timestamp": "2026-03-27T09:36:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D169",
+    "thread_id": "T169",
+    "from": "contact169@primenetwork.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-04-05T05:10:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D170",
+    "thread_id": "T170",
+    "from": "charlie@company.com",
+    "to": [
+      "contact170@primenetwork.com"
+    ],
+    "timestamp": "2026-05-23T08:13:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D170",
+    "thread_id": "T170",
+    "from": "contact170@primenetwork.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-03-26T10:02:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D171",
+    "thread_id": "T171",
+    "from": "fiona@company.com",
+    "to": [
+      "contact171@totalsystems.com"
+    ],
+    "timestamp": "2026-04-02T08:34:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D171",
+    "thread_id": "T171",
+    "from": "contact171@totalsystems.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-04-05T17:17:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D171",
+    "thread_id": "T171",
+    "from": "fiona@company.com",
+    "to": [
+      "contact171@totalsystems.com"
+    ],
+    "timestamp": "2026-04-03T15:04:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D171",
+    "thread_id": "T171",
+    "from": "contact171@totalsystems.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-03-26T21:18:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D172",
+    "thread_id": "T172",
+    "from": "george@company.com",
+    "to": [
+      "contact172@totalsolutions.com"
+    ],
+    "timestamp": "2026-04-28T02:22:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D172",
+    "thread_id": "T172",
+    "from": "contact172@totalsolutions.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-04-19T16:27:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D173",
+    "thread_id": "T173",
+    "from": "diana@company.com",
+    "to": [
+      "contact173@smartsystems.com"
+    ],
+    "timestamp": "2026-05-26T12:28:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D173",
+    "thread_id": "T173",
+    "from": "contact173@smartsystems.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-04-02T18:00:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D173",
+    "thread_id": "T173",
+    "from": "diana@company.com",
+    "to": [
+      "contact173@smartsystems.com"
+    ],
+    "timestamp": "2026-04-09T01:55:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D173",
+    "thread_id": "T173",
+    "from": "contact173@smartsystems.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-03-25T10:08:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D174",
+    "thread_id": "T174",
+    "from": "fiona@company.com",
+    "to": [
+      "contact174@totalsystems.com"
+    ],
+    "timestamp": "2026-04-24T13:52:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D174",
+    "thread_id": "T174",
+    "from": "contact174@totalsystems.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-03-28T18:31:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D175",
+    "thread_id": "T175",
+    "from": "ivan@company.com",
+    "to": [
+      "contact175@totalnetwork.com"
+    ],
+    "timestamp": "2026-03-11T11:17:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D175",
+    "thread_id": "T175",
+    "from": "contact175@totalnetwork.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-03-11T11:43:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D175",
+    "thread_id": "T175",
+    "from": "ivan@company.com",
+    "to": [
+      "contact175@totalnetwork.com"
+    ],
+    "timestamp": "2026-04-15T11:52:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D175",
+    "thread_id": "T175",
+    "from": "contact175@totalnetwork.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-03-03T20:43:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D176",
+    "thread_id": "T176",
+    "from": "alice@company.com",
+    "to": [
+      "contact176@greennetwork.com"
+    ],
+    "timestamp": "2026-05-24T10:10:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D176",
+    "thread_id": "T176",
+    "from": "contact176@greennetwork.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-05-20T00:22:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D176",
+    "thread_id": "T176",
+    "from": "alice@company.com",
+    "to": [
+      "contact176@greennetwork.com"
+    ],
+    "timestamp": "2026-05-29T02:32:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D176",
+    "thread_id": "T176",
+    "from": "contact176@greennetwork.com",
+    "to": [
+      "alice@company.com"
+    ],
+    "timestamp": "2026-05-19T16:48:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D177",
+    "thread_id": "T177",
+    "from": "julia@company.com",
+    "to": [
+      "contact177@peakenterprises.com"
+    ],
+    "timestamp": "2026-05-25T09:26:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D177",
+    "thread_id": "T177",
+    "from": "contact177@peakenterprises.com",
+    "to": [
+      "julia@company.com"
+    ],
+    "timestamp": "2026-03-05T12:40:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D178",
+    "thread_id": "T178",
+    "from": "fiona@company.com",
+    "to": [
+      "contact178@futuredynamics.com"
+    ],
+    "timestamp": "2026-03-08T21:05:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D178",
+    "thread_id": "T178",
+    "from": "contact178@futuredynamics.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-03-04T06:35:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D179",
+    "thread_id": "T179",
+    "from": "bob@company.com",
+    "to": [
+      "contact179@smartsystems.com"
+    ],
+    "timestamp": "2026-04-14T03:11:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D179",
+    "thread_id": "T179",
+    "from": "contact179@smartsystems.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-05-04T00:07:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D180",
+    "thread_id": "T180",
+    "from": "bob@company.com",
+    "to": [
+      "contact180@nextsolutions.com"
+    ],
+    "timestamp": "2026-04-18T23:08:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D180",
+    "thread_id": "T180",
+    "from": "contact180@nextsolutions.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-05-19T16:58:00Z",
+    "subject": "Re: Update on Fraud Detection AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D180",
+    "thread_id": "T180",
+    "from": "bob@company.com",
+    "to": [
+      "contact180@nextsolutions.com"
+    ],
+    "timestamp": "2026-03-07T10:28:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D181",
+    "thread_id": "T181",
+    "from": "fiona@company.com",
+    "to": [
+      "contact181@coreenterprises.com"
+    ],
+    "timestamp": "2026-03-14T20:07:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D181",
+    "thread_id": "T181",
+    "from": "contact181@coreenterprises.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-05-17T15:29:00Z",
+    "subject": "Re: Update on Fraud Detection AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D182",
+    "thread_id": "T182",
+    "from": "bob@company.com",
+    "to": [
+      "contact182@primesolutions.com"
+    ],
+    "timestamp": "2026-04-22T18:31:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D182",
+    "thread_id": "T182",
+    "from": "contact182@primesolutions.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-03-07T01:04:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D182",
+    "thread_id": "T182",
+    "from": "bob@company.com",
+    "to": [
+      "contact182@primesolutions.com"
+    ],
+    "timestamp": "2026-04-06T05:01:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D183",
+    "thread_id": "T183",
+    "from": "charlie@company.com",
+    "to": [
+      "contact183@nextdynamics.com"
+    ],
+    "timestamp": "2026-05-05T23:43:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D183",
+    "thread_id": "T183",
+    "from": "contact183@nextdynamics.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-04-13T15:32:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D184",
+    "thread_id": "T184",
+    "from": "julia@company.com",
+    "to": [
+      "contact184@futuresolutions.com"
+    ],
+    "timestamp": "2026-03-23T17:56:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D184",
+    "thread_id": "T184",
+    "from": "contact184@futuresolutions.com",
+    "to": [
+      "julia@company.com"
+    ],
+    "timestamp": "2026-05-17T03:24:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D184",
+    "thread_id": "T184",
+    "from": "julia@company.com",
+    "to": [
+      "contact184@futuresolutions.com"
+    ],
+    "timestamp": "2026-03-06T14:40:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D185",
+    "thread_id": "T185",
+    "from": "bob@company.com",
+    "to": [
+      "contact185@globalsystems.com"
+    ],
+    "timestamp": "2026-05-07T04:18:00Z",
+    "subject": "Update on Energy Efficiency Insights",
+    "body": "Hi, here is an update on the Energy Efficiency Insights opportunity."
+  },
+  {
+    "deal_id": "D185",
+    "thread_id": "T185",
+    "from": "contact185@globalsystems.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-04-09T17:06:00Z",
+    "subject": "Re: Update on Energy Efficiency Insights",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D186",
+    "thread_id": "T186",
+    "from": "bob@company.com",
+    "to": [
+      "contact186@corenetwork.com"
+    ],
+    "timestamp": "2026-03-05T21:39:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D186",
+    "thread_id": "T186",
+    "from": "contact186@corenetwork.com",
+    "to": [
+      "bob@company.com"
+    ],
+    "timestamp": "2026-04-25T04:39:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D186",
+    "thread_id": "T186",
+    "from": "bob@company.com",
+    "to": [
+      "contact186@corenetwork.com"
+    ],
+    "timestamp": "2026-04-01T19:04:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D187",
+    "thread_id": "T187",
+    "from": "charlie@company.com",
+    "to": [
+      "contact187@primesystems.com"
+    ],
+    "timestamp": "2026-05-26T18:31:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D187",
+    "thread_id": "T187",
+    "from": "contact187@primesystems.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-05-15T15:13:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D187",
+    "thread_id": "T187",
+    "from": "charlie@company.com",
+    "to": [
+      "contact187@primesystems.com"
+    ],
+    "timestamp": "2026-05-01T12:58:00Z",
+    "subject": "Update on AI Risk Platform",
+    "body": "Hi, here is an update on the AI Risk Platform opportunity."
+  },
+  {
+    "deal_id": "D187",
+    "thread_id": "T187",
+    "from": "contact187@primesystems.com",
+    "to": [
+      "charlie@company.com"
+    ],
+    "timestamp": "2026-04-05T05:55:00Z",
+    "subject": "Re: Update on AI Risk Platform",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D188",
+    "thread_id": "T188",
+    "from": "diana@company.com",
+    "to": [
+      "contact188@peaksystems.com"
+    ],
+    "timestamp": "2026-05-25T01:16:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D188",
+    "thread_id": "T188",
+    "from": "contact188@peaksystems.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-04-17T09:05:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D188",
+    "thread_id": "T188",
+    "from": "diana@company.com",
+    "to": [
+      "contact188@peaksystems.com"
+    ],
+    "timestamp": "2026-04-22T04:06:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D189",
+    "thread_id": "T189",
+    "from": "george@company.com",
+    "to": [
+      "contact189@smartdynamics.com"
+    ],
+    "timestamp": "2026-05-23T16:17:00Z",
+    "subject": "Update on Contract Automation",
+    "body": "Hi, here is an update on the Contract Automation opportunity."
+  },
+  {
+    "deal_id": "D189",
+    "thread_id": "T189",
+    "from": "contact189@smartdynamics.com",
+    "to": [
+      "george@company.com"
+    ],
+    "timestamp": "2026-03-21T17:30:00Z",
+    "subject": "Re: Update on Contract Automation",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D190",
+    "thread_id": "T190",
+    "from": "ivan@company.com",
+    "to": [
+      "contact190@greencorp.com"
+    ],
+    "timestamp": "2026-03-22T21:59:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D190",
+    "thread_id": "T190",
+    "from": "contact190@greencorp.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-05-28T21:20:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D191",
+    "thread_id": "T191",
+    "from": "ivan@company.com",
+    "to": [
+      "contact191@bluenetwork.com"
+    ],
+    "timestamp": "2026-04-15T21:19:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D191",
+    "thread_id": "T191",
+    "from": "contact191@bluenetwork.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-05-23T06:29:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D191",
+    "thread_id": "T191",
+    "from": "ivan@company.com",
+    "to": [
+      "contact191@bluenetwork.com"
+    ],
+    "timestamp": "2026-03-08T11:58:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D191",
+    "thread_id": "T191",
+    "from": "contact191@bluenetwork.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-03-29T20:03:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D192",
+    "thread_id": "T192",
+    "from": "julia@company.com",
+    "to": [
+      "contact192@globalsystems.com"
+    ],
+    "timestamp": "2026-05-24T17:19:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D192",
+    "thread_id": "T192",
+    "from": "contact192@globalsystems.com",
+    "to": [
+      "julia@company.com"
+    ],
+    "timestamp": "2026-04-09T11:07:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D193",
+    "thread_id": "T193",
+    "from": "diana@company.com",
+    "to": [
+      "contact193@nextpartners.com"
+    ],
+    "timestamp": "2026-04-01T21:39:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D193",
+    "thread_id": "T193",
+    "from": "contact193@nextpartners.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-03-23T22:10:00Z",
+    "subject": "Re: Update on Fraud Detection AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D193",
+    "thread_id": "T193",
+    "from": "diana@company.com",
+    "to": [
+      "contact193@nextpartners.com"
+    ],
+    "timestamp": "2026-04-18T08:21:00Z",
+    "subject": "Update on Fraud Detection AI",
+    "body": "Hi, here is an update on the Fraud Detection AI opportunity."
+  },
+  {
+    "deal_id": "D194",
+    "thread_id": "T194",
+    "from": "fiona@company.com",
+    "to": [
+      "contact194@totaldynamics.com"
+    ],
+    "timestamp": "2026-04-07T01:29:00Z",
+    "subject": "Update on Cybersecurity Dashboard",
+    "body": "Hi, here is an update on the Cybersecurity Dashboard opportunity."
+  },
+  {
+    "deal_id": "D194",
+    "thread_id": "T194",
+    "from": "contact194@totaldynamics.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-05-22T07:17:00Z",
+    "subject": "Re: Update on Cybersecurity Dashboard",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D195",
+    "thread_id": "T195",
+    "from": "ivan@company.com",
+    "to": [
+      "contact195@smartsystems.com"
+    ],
+    "timestamp": "2026-03-23T15:11:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D195",
+    "thread_id": "T195",
+    "from": "contact195@smartsystems.com",
+    "to": [
+      "ivan@company.com"
+    ],
+    "timestamp": "2026-04-16T09:43:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D196",
+    "thread_id": "T196",
+    "from": "hannah@company.com",
+    "to": [
+      "contact196@totalsolutions.com"
+    ],
+    "timestamp": "2026-05-22T17:09:00Z",
+    "subject": "Update on Logistics Optimization AI",
+    "body": "Hi, here is an update on the Logistics Optimization AI opportunity."
+  },
+  {
+    "deal_id": "D196",
+    "thread_id": "T196",
+    "from": "contact196@totalsolutions.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-04-10T04:51:00Z",
+    "subject": "Re: Update on Logistics Optimization AI",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D197",
+    "thread_id": "T197",
+    "from": "fiona@company.com",
+    "to": [
+      "contact197@corenetwork.com"
+    ],
+    "timestamp": "2026-05-07T11:38:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D197",
+    "thread_id": "T197",
+    "from": "contact197@corenetwork.com",
+    "to": [
+      "fiona@company.com"
+    ],
+    "timestamp": "2026-03-04T07:37:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D197",
+    "thread_id": "T197",
+    "from": "fiona@company.com",
+    "to": [
+      "contact197@corenetwork.com"
+    ],
+    "timestamp": "2026-03-01T11:45:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D198",
+    "thread_id": "T198",
+    "from": "hannah@company.com",
+    "to": [
+      "contact198@peaklabs.com"
+    ],
+    "timestamp": "2026-03-14T07:39:00Z",
+    "subject": "Update on Cloud Migration Suite",
+    "body": "Hi, here is an update on the Cloud Migration Suite opportunity."
+  },
+  {
+    "deal_id": "D198",
+    "thread_id": "T198",
+    "from": "contact198@peaklabs.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-05-22T03:09:00Z",
+    "subject": "Re: Update on Cloud Migration Suite",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D199",
+    "thread_id": "T199",
+    "from": "hannah@company.com",
+    "to": [
+      "contact199@nextnetwork.com"
+    ],
+    "timestamp": "2026-04-15T09:40:00Z",
+    "subject": "Update on IoT Monitoring",
+    "body": "Hi, here is an update on the IoT Monitoring opportunity."
+  },
+  {
+    "deal_id": "D199",
+    "thread_id": "T199",
+    "from": "contact199@nextnetwork.com",
+    "to": [
+      "hannah@company.com"
+    ],
+    "timestamp": "2026-04-15T08:25:00Z",
+    "subject": "Re: Update on IoT Monitoring",
+    "body": "Thanks. Please share more integration details and pricing schedule."
+  },
+  {
+    "deal_id": "D200",
+    "thread_id": "T200",
+    "from": "diana@company.com",
+    "to": [
+      "contact200@peaknetwork.com"
+    ],
+    "timestamp": "2026-05-23T12:18:00Z",
+    "subject": "Update on Customer Analytics",
+    "body": "Hi, here is an update on the Customer Analytics opportunity."
+  },
+  {
+    "deal_id": "D200",
+    "thread_id": "T200",
+    "from": "contact200@peaknetwork.com",
+    "to": [
+      "diana@company.com"
+    ],
+    "timestamp": "2026-05-05T09:05:00Z",
+    "subject": "Re: Update on Customer Analytics",
+    "body": "Thanks. Please share more integration details and pricing schedule."
   }
 ]

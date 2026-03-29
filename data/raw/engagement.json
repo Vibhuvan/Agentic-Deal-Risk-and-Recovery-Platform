@@ -1,26 +1,1602 @@
 [
   {
     "deal_id": "D001",
-    "email_opens": 8,
-    "email_replies": 2,
-    "meetings": 1,
-    "avg_reply_time_hours": 48,
-    "last_engagement_days_ago": 4
+    "email_opens": 3,
+    "email_replies": 7,
+    "meetings": 3,
+    "avg_reply_time_hours": 71,
+    "last_engagement_days_ago": 20
   },
   {
     "deal_id": "D002",
-    "email_opens": 5,
-    "email_replies": 1,
+    "email_opens": 19,
+    "email_replies": 7,
+    "meetings": 2,
+    "avg_reply_time_hours": 122,
+    "last_engagement_days_ago": 27
+  },
+  {
+    "deal_id": "D003",
+    "email_opens": 11,
+    "email_replies": 3,
     "meetings": 0,
-    "avg_reply_time_hours": 120,
-    "last_engagement_days_ago": 10
+    "avg_reply_time_hours": 131,
+    "last_engagement_days_ago": 27
   },
   {
     "deal_id": "D004",
-    "email_opens": 3,
+    "email_opens": 20,
+    "email_replies": 7,
+    "meetings": 0,
+    "avg_reply_time_hours": 176,
+    "last_engagement_days_ago": 14
+  },
+  {
+    "deal_id": "D005",
+    "email_opens": 2,
+    "email_replies": 1,
+    "meetings": 0,
+    "avg_reply_time_hours": 146,
+    "last_engagement_days_ago": 17
+  },
+  {
+    "deal_id": "D006",
+    "email_opens": 13,
+    "email_replies": 6,
+    "meetings": 2,
+    "avg_reply_time_hours": 131,
+    "last_engagement_days_ago": 7
+  },
+  {
+    "deal_id": "D007",
+    "email_opens": 11,
+    "email_replies": 7,
+    "meetings": 0,
+    "avg_reply_time_hours": 113,
+    "last_engagement_days_ago": 28
+  },
+  {
+    "deal_id": "D008",
+    "email_opens": 5,
+    "email_replies": 5,
+    "meetings": 2,
+    "avg_reply_time_hours": 180,
+    "last_engagement_days_ago": 24
+  },
+  {
+    "deal_id": "D009",
+    "email_opens": 19,
+    "email_replies": 1,
+    "meetings": 1,
+    "avg_reply_time_hours": 61,
+    "last_engagement_days_ago": 21
+  },
+  {
+    "deal_id": "D010",
+    "email_opens": 2,
+    "email_replies": 2,
+    "meetings": 0,
+    "avg_reply_time_hours": 15,
+    "last_engagement_days_ago": 2
+  },
+  {
+    "deal_id": "D011",
+    "email_opens": 9,
+    "email_replies": 5,
+    "meetings": 1,
+    "avg_reply_time_hours": 57,
+    "last_engagement_days_ago": 17
+  },
+  {
+    "deal_id": "D012",
+    "email_opens": 5,
+    "email_replies": 2,
+    "meetings": 1,
+    "avg_reply_time_hours": 151,
+    "last_engagement_days_ago": 28
+  },
+  {
+    "deal_id": "D013",
+    "email_opens": 17,
+    "email_replies": 8,
+    "meetings": 2,
+    "avg_reply_time_hours": 67,
+    "last_engagement_days_ago": 2
+  },
+  {
+    "deal_id": "D014",
+    "email_opens": 7,
+    "email_replies": 1,
+    "meetings": 1,
+    "avg_reply_time_hours": 41,
+    "last_engagement_days_ago": 22
+  },
+  {
+    "deal_id": "D015",
+    "email_opens": 5,
     "email_replies": 0,
     "meetings": 0,
-    "avg_reply_time_hours": 0,
+    "avg_reply_time_hours": 132,
+    "last_engagement_days_ago": 26
+  },
+  {
+    "deal_id": "D016",
+    "email_opens": 19,
+    "email_replies": 2,
+    "meetings": 2,
+    "avg_reply_time_hours": 157,
+    "last_engagement_days_ago": 18
+  },
+  {
+    "deal_id": "D017",
+    "email_opens": 10,
+    "email_replies": 8,
+    "meetings": 3,
+    "avg_reply_time_hours": 178,
+    "last_engagement_days_ago": 17
+  },
+  {
+    "deal_id": "D018",
+    "email_opens": 3,
+    "email_replies": 8,
+    "meetings": 0,
+    "avg_reply_time_hours": 41,
+    "last_engagement_days_ago": 3
+  },
+  {
+    "deal_id": "D019",
+    "email_opens": 5,
+    "email_replies": 2,
+    "meetings": 2,
+    "avg_reply_time_hours": 136,
+    "last_engagement_days_ago": 17
+  },
+  {
+    "deal_id": "D020",
+    "email_opens": 11,
+    "email_replies": 3,
+    "meetings": 3,
+    "avg_reply_time_hours": 40,
+    "last_engagement_days_ago": 30
+  },
+  {
+    "deal_id": "D021",
+    "email_opens": 6,
+    "email_replies": 0,
+    "meetings": 2,
+    "avg_reply_time_hours": 21,
+    "last_engagement_days_ago": 21
+  },
+  {
+    "deal_id": "D022",
+    "email_opens": 9,
+    "email_replies": 7,
+    "meetings": 0,
+    "avg_reply_time_hours": 114,
+    "last_engagement_days_ago": 9
+  },
+  {
+    "deal_id": "D023",
+    "email_opens": 9,
+    "email_replies": 3,
+    "meetings": 0,
+    "avg_reply_time_hours": 164,
+    "last_engagement_days_ago": 2
+  },
+  {
+    "deal_id": "D024",
+    "email_opens": 6,
+    "email_replies": 4,
+    "meetings": 3,
+    "avg_reply_time_hours": 21,
+    "last_engagement_days_ago": 0
+  },
+  {
+    "deal_id": "D025",
+    "email_opens": 20,
+    "email_replies": 0,
+    "meetings": 3,
+    "avg_reply_time_hours": 155,
+    "last_engagement_days_ago": 30
+  },
+  {
+    "deal_id": "D026",
+    "email_opens": 19,
+    "email_replies": 8,
+    "meetings": 1,
+    "avg_reply_time_hours": 102,
+    "last_engagement_days_ago": 5
+  },
+  {
+    "deal_id": "D027",
+    "email_opens": 20,
+    "email_replies": 6,
+    "meetings": 2,
+    "avg_reply_time_hours": 156,
+    "last_engagement_days_ago": 4
+  },
+  {
+    "deal_id": "D028",
+    "email_opens": 19,
+    "email_replies": 3,
+    "meetings": 1,
+    "avg_reply_time_hours": 54,
+    "last_engagement_days_ago": 23
+  },
+  {
+    "deal_id": "D029",
+    "email_opens": 18,
+    "email_replies": 5,
+    "meetings": 0,
+    "avg_reply_time_hours": 144,
+    "last_engagement_days_ago": 25
+  },
+  {
+    "deal_id": "D030",
+    "email_opens": 8,
+    "email_replies": 5,
+    "meetings": 0,
+    "avg_reply_time_hours": 162,
+    "last_engagement_days_ago": 28
+  },
+  {
+    "deal_id": "D031",
+    "email_opens": 13,
+    "email_replies": 3,
+    "meetings": 2,
+    "avg_reply_time_hours": 176,
+    "last_engagement_days_ago": 6
+  },
+  {
+    "deal_id": "D032",
+    "email_opens": 17,
+    "email_replies": 4,
+    "meetings": 3,
+    "avg_reply_time_hours": 172,
+    "last_engagement_days_ago": 10
+  },
+  {
+    "deal_id": "D033",
+    "email_opens": 12,
+    "email_replies": 2,
+    "meetings": 1,
+    "avg_reply_time_hours": 125,
+    "last_engagement_days_ago": 4
+  },
+  {
+    "deal_id": "D034",
+    "email_opens": 2,
+    "email_replies": 3,
+    "meetings": 3,
+    "avg_reply_time_hours": 29,
+    "last_engagement_days_ago": 7
+  },
+  {
+    "deal_id": "D035",
+    "email_opens": 15,
+    "email_replies": 6,
+    "meetings": 1,
+    "avg_reply_time_hours": 30,
+    "last_engagement_days_ago": 21
+  },
+  {
+    "deal_id": "D036",
+    "email_opens": 12,
+    "email_replies": 6,
+    "meetings": 1,
+    "avg_reply_time_hours": 120,
+    "last_engagement_days_ago": 26
+  },
+  {
+    "deal_id": "D037",
+    "email_opens": 8,
+    "email_replies": 6,
+    "meetings": 1,
+    "avg_reply_time_hours": 173,
+    "last_engagement_days_ago": 26
+  },
+  {
+    "deal_id": "D038",
+    "email_opens": 2,
+    "email_replies": 4,
+    "meetings": 0,
+    "avg_reply_time_hours": 38,
+    "last_engagement_days_ago": 25
+  },
+  {
+    "deal_id": "D039",
+    "email_opens": 8,
+    "email_replies": 4,
+    "meetings": 3,
+    "avg_reply_time_hours": 17,
+    "last_engagement_days_ago": 21
+  },
+  {
+    "deal_id": "D040",
+    "email_opens": 11,
+    "email_replies": 1,
+    "meetings": 2,
+    "avg_reply_time_hours": 17,
+    "last_engagement_days_ago": 13
+  },
+  {
+    "deal_id": "D041",
+    "email_opens": 1,
+    "email_replies": 7,
+    "meetings": 3,
+    "avg_reply_time_hours": 53,
+    "last_engagement_days_ago": 8
+  },
+  {
+    "deal_id": "D042",
+    "email_opens": 11,
+    "email_replies": 4,
+    "meetings": 2,
+    "avg_reply_time_hours": 34,
+    "last_engagement_days_ago": 10
+  },
+  {
+    "deal_id": "D043",
+    "email_opens": 7,
+    "email_replies": 3,
+    "meetings": 1,
+    "avg_reply_time_hours": 29,
+    "last_engagement_days_ago": 28
+  },
+  {
+    "deal_id": "D044",
+    "email_opens": 20,
+    "email_replies": 4,
+    "meetings": 1,
+    "avg_reply_time_hours": 135,
+    "last_engagement_days_ago": 17
+  },
+  {
+    "deal_id": "D045",
+    "email_opens": 2,
+    "email_replies": 1,
+    "meetings": 1,
+    "avg_reply_time_hours": 69,
+    "last_engagement_days_ago": 9
+  },
+  {
+    "deal_id": "D046",
+    "email_opens": 2,
+    "email_replies": 2,
+    "meetings": 0,
+    "avg_reply_time_hours": 114,
+    "last_engagement_days_ago": 19
+  },
+  {
+    "deal_id": "D047",
+    "email_opens": 5,
+    "email_replies": 3,
+    "meetings": 2,
+    "avg_reply_time_hours": 156,
+    "last_engagement_days_ago": 25
+  },
+  {
+    "deal_id": "D048",
+    "email_opens": 2,
+    "email_replies": 3,
+    "meetings": 0,
+    "avg_reply_time_hours": 120,
+    "last_engagement_days_ago": 4
+  },
+  {
+    "deal_id": "D049",
+    "email_opens": 11,
+    "email_replies": 4,
+    "meetings": 2,
+    "avg_reply_time_hours": 89,
+    "last_engagement_days_ago": 17
+  },
+  {
+    "deal_id": "D050",
+    "email_opens": 8,
+    "email_replies": 6,
+    "meetings": 3,
+    "avg_reply_time_hours": 114,
+    "last_engagement_days_ago": 18
+  },
+  {
+    "deal_id": "D051",
+    "email_opens": 6,
+    "email_replies": 3,
+    "meetings": 1,
+    "avg_reply_time_hours": 81,
+    "last_engagement_days_ago": 3
+  },
+  {
+    "deal_id": "D052",
+    "email_opens": 14,
+    "email_replies": 4,
+    "meetings": 2,
+    "avg_reply_time_hours": 113,
+    "last_engagement_days_ago": 16
+  },
+  {
+    "deal_id": "D053",
+    "email_opens": 5,
+    "email_replies": 1,
+    "meetings": 1,
+    "avg_reply_time_hours": 147,
+    "last_engagement_days_ago": 14
+  },
+  {
+    "deal_id": "D054",
+    "email_opens": 2,
+    "email_replies": 4,
+    "meetings": 3,
+    "avg_reply_time_hours": 61,
+    "last_engagement_days_ago": 26
+  },
+  {
+    "deal_id": "D055",
+    "email_opens": 6,
+    "email_replies": 1,
+    "meetings": 3,
+    "avg_reply_time_hours": 86,
+    "last_engagement_days_ago": 25
+  },
+  {
+    "deal_id": "D056",
+    "email_opens": 1,
+    "email_replies": 0,
+    "meetings": 1,
+    "avg_reply_time_hours": 74,
+    "last_engagement_days_ago": 22
+  },
+  {
+    "deal_id": "D057",
+    "email_opens": 5,
+    "email_replies": 4,
+    "meetings": 3,
+    "avg_reply_time_hours": 16,
+    "last_engagement_days_ago": 22
+  },
+  {
+    "deal_id": "D058",
+    "email_opens": 8,
+    "email_replies": 2,
+    "meetings": 1,
+    "avg_reply_time_hours": 157,
+    "last_engagement_days_ago": 6
+  },
+  {
+    "deal_id": "D059",
+    "email_opens": 7,
+    "email_replies": 8,
+    "meetings": 1,
+    "avg_reply_time_hours": 62,
+    "last_engagement_days_ago": 30
+  },
+  {
+    "deal_id": "D060",
+    "email_opens": 16,
+    "email_replies": 4,
+    "meetings": 2,
+    "avg_reply_time_hours": 73,
+    "last_engagement_days_ago": 27
+  },
+  {
+    "deal_id": "D061",
+    "email_opens": 17,
+    "email_replies": 4,
+    "meetings": 2,
+    "avg_reply_time_hours": 65,
+    "last_engagement_days_ago": 28
+  },
+  {
+    "deal_id": "D062",
+    "email_opens": 14,
+    "email_replies": 8,
+    "meetings": 1,
+    "avg_reply_time_hours": 38,
+    "last_engagement_days_ago": 29
+  },
+  {
+    "deal_id": "D063",
+    "email_opens": 7,
+    "email_replies": 5,
+    "meetings": 2,
+    "avg_reply_time_hours": 72,
+    "last_engagement_days_ago": 14
+  },
+  {
+    "deal_id": "D064",
+    "email_opens": 14,
+    "email_replies": 2,
+    "meetings": 0,
+    "avg_reply_time_hours": 69,
+    "last_engagement_days_ago": 17
+  },
+  {
+    "deal_id": "D065",
+    "email_opens": 2,
+    "email_replies": 1,
+    "meetings": 1,
+    "avg_reply_time_hours": 49,
+    "last_engagement_days_ago": 14
+  },
+  {
+    "deal_id": "D066",
+    "email_opens": 8,
+    "email_replies": 1,
+    "meetings": 2,
+    "avg_reply_time_hours": 176,
+    "last_engagement_days_ago": 3
+  },
+  {
+    "deal_id": "D067",
+    "email_opens": 12,
+    "email_replies": 7,
+    "meetings": 0,
+    "avg_reply_time_hours": 154,
+    "last_engagement_days_ago": 1
+  },
+  {
+    "deal_id": "D068",
+    "email_opens": 11,
+    "email_replies": 5,
+    "meetings": 0,
+    "avg_reply_time_hours": 60,
+    "last_engagement_days_ago": 16
+  },
+  {
+    "deal_id": "D069",
+    "email_opens": 4,
+    "email_replies": 8,
+    "meetings": 1,
+    "avg_reply_time_hours": 149,
+    "last_engagement_days_ago": 0
+  },
+  {
+    "deal_id": "D070",
+    "email_opens": 8,
+    "email_replies": 3,
+    "meetings": 2,
+    "avg_reply_time_hours": 164,
+    "last_engagement_days_ago": 0
+  },
+  {
+    "deal_id": "D071",
+    "email_opens": 20,
+    "email_replies": 5,
+    "meetings": 0,
+    "avg_reply_time_hours": 72,
+    "last_engagement_days_ago": 16
+  },
+  {
+    "deal_id": "D072",
+    "email_opens": 8,
+    "email_replies": 5,
+    "meetings": 3,
+    "avg_reply_time_hours": 106,
+    "last_engagement_days_ago": 26
+  },
+  {
+    "deal_id": "D073",
+    "email_opens": 2,
+    "email_replies": 6,
+    "meetings": 3,
+    "avg_reply_time_hours": 137,
+    "last_engagement_days_ago": 19
+  },
+  {
+    "deal_id": "D074",
+    "email_opens": 4,
+    "email_replies": 6,
+    "meetings": 1,
+    "avg_reply_time_hours": 64,
+    "last_engagement_days_ago": 16
+  },
+  {
+    "deal_id": "D075",
+    "email_opens": 13,
+    "email_replies": 2,
+    "meetings": 1,
+    "avg_reply_time_hours": 134,
+    "last_engagement_days_ago": 8
+  },
+  {
+    "deal_id": "D076",
+    "email_opens": 5,
+    "email_replies": 0,
+    "meetings": 2,
+    "avg_reply_time_hours": 68,
+    "last_engagement_days_ago": 2
+  },
+  {
+    "deal_id": "D077",
+    "email_opens": 4,
+    "email_replies": 6,
+    "meetings": 1,
+    "avg_reply_time_hours": 154,
+    "last_engagement_days_ago": 23
+  },
+  {
+    "deal_id": "D078",
+    "email_opens": 6,
+    "email_replies": 6,
+    "meetings": 2,
+    "avg_reply_time_hours": 146,
+    "last_engagement_days_ago": 16
+  },
+  {
+    "deal_id": "D079",
+    "email_opens": 5,
+    "email_replies": 4,
+    "meetings": 2,
+    "avg_reply_time_hours": 49,
+    "last_engagement_days_ago": 27
+  },
+  {
+    "deal_id": "D080",
+    "email_opens": 5,
+    "email_replies": 5,
+    "meetings": 0,
+    "avg_reply_time_hours": 117,
+    "last_engagement_days_ago": 19
+  },
+  {
+    "deal_id": "D081",
+    "email_opens": 4,
+    "email_replies": 7,
+    "meetings": 2,
+    "avg_reply_time_hours": 120,
+    "last_engagement_days_ago": 9
+  },
+  {
+    "deal_id": "D082",
+    "email_opens": 11,
+    "email_replies": 3,
+    "meetings": 2,
+    "avg_reply_time_hours": 22,
+    "last_engagement_days_ago": 6
+  },
+  {
+    "deal_id": "D083",
+    "email_opens": 8,
+    "email_replies": 2,
+    "meetings": 0,
+    "avg_reply_time_hours": 113,
+    "last_engagement_days_ago": 6
+  },
+  {
+    "deal_id": "D084",
+    "email_opens": 17,
+    "email_replies": 3,
+    "meetings": 1,
+    "avg_reply_time_hours": 166,
+    "last_engagement_days_ago": 11
+  },
+  {
+    "deal_id": "D085",
+    "email_opens": 13,
+    "email_replies": 4,
+    "meetings": 0,
+    "avg_reply_time_hours": 52,
+    "last_engagement_days_ago": 30
+  },
+  {
+    "deal_id": "D086",
+    "email_opens": 15,
+    "email_replies": 7,
+    "meetings": 1,
+    "avg_reply_time_hours": 59,
+    "last_engagement_days_ago": 18
+  },
+  {
+    "deal_id": "D087",
+    "email_opens": 11,
+    "email_replies": 6,
+    "meetings": 3,
+    "avg_reply_time_hours": 70,
+    "last_engagement_days_ago": 27
+  },
+  {
+    "deal_id": "D088",
+    "email_opens": 15,
+    "email_replies": 3,
+    "meetings": 0,
+    "avg_reply_time_hours": 107,
+    "last_engagement_days_ago": 27
+  },
+  {
+    "deal_id": "D089",
+    "email_opens": 5,
+    "email_replies": 8,
+    "meetings": 2,
+    "avg_reply_time_hours": 26,
+    "last_engagement_days_ago": 3
+  },
+  {
+    "deal_id": "D090",
+    "email_opens": 8,
+    "email_replies": 5,
+    "meetings": 0,
+    "avg_reply_time_hours": 100,
+    "last_engagement_days_ago": 22
+  },
+  {
+    "deal_id": "D091",
+    "email_opens": 15,
+    "email_replies": 0,
+    "meetings": 3,
+    "avg_reply_time_hours": 42,
+    "last_engagement_days_ago": 17
+  },
+  {
+    "deal_id": "D092",
+    "email_opens": 6,
+    "email_replies": 5,
+    "meetings": 2,
+    "avg_reply_time_hours": 26,
+    "last_engagement_days_ago": 0
+  },
+  {
+    "deal_id": "D093",
+    "email_opens": 14,
+    "email_replies": 6,
+    "meetings": 0,
+    "avg_reply_time_hours": 31,
+    "last_engagement_days_ago": 30
+  },
+  {
+    "deal_id": "D094",
+    "email_opens": 11,
+    "email_replies": 3,
+    "meetings": 1,
+    "avg_reply_time_hours": 66,
+    "last_engagement_days_ago": 25
+  },
+  {
+    "deal_id": "D095",
+    "email_opens": 19,
+    "email_replies": 7,
+    "meetings": 0,
+    "avg_reply_time_hours": 57,
+    "last_engagement_days_ago": 23
+  },
+  {
+    "deal_id": "D096",
+    "email_opens": 1,
+    "email_replies": 0,
+    "meetings": 3,
+    "avg_reply_time_hours": 151,
+    "last_engagement_days_ago": 11
+  },
+  {
+    "deal_id": "D097",
+    "email_opens": 18,
+    "email_replies": 7,
+    "meetings": 3,
+    "avg_reply_time_hours": 142,
+    "last_engagement_days_ago": 1
+  },
+  {
+    "deal_id": "D098",
+    "email_opens": 15,
+    "email_replies": 6,
+    "meetings": 0,
+    "avg_reply_time_hours": 36,
+    "last_engagement_days_ago": 20
+  },
+  {
+    "deal_id": "D099",
+    "email_opens": 3,
+    "email_replies": 8,
+    "meetings": 0,
+    "avg_reply_time_hours": 157,
+    "last_engagement_days_ago": 3
+  },
+  {
+    "deal_id": "D100",
+    "email_opens": 17,
+    "email_replies": 4,
+    "meetings": 3,
+    "avg_reply_time_hours": 109,
+    "last_engagement_days_ago": 24
+  },
+  {
+    "deal_id": "D101",
+    "email_opens": 12,
+    "email_replies": 0,
+    "meetings": 0,
+    "avg_reply_time_hours": 27,
+    "last_engagement_days_ago": 27
+  },
+  {
+    "deal_id": "D102",
+    "email_opens": 2,
+    "email_replies": 8,
+    "meetings": 1,
+    "avg_reply_time_hours": 40,
+    "last_engagement_days_ago": 13
+  },
+  {
+    "deal_id": "D103",
+    "email_opens": 17,
+    "email_replies": 7,
+    "meetings": 3,
+    "avg_reply_time_hours": 131,
+    "last_engagement_days_ago": 26
+  },
+  {
+    "deal_id": "D104",
+    "email_opens": 17,
+    "email_replies": 0,
+    "meetings": 3,
+    "avg_reply_time_hours": 86,
+    "last_engagement_days_ago": 8
+  },
+  {
+    "deal_id": "D105",
+    "email_opens": 12,
+    "email_replies": 5,
+    "meetings": 3,
+    "avg_reply_time_hours": 63,
+    "last_engagement_days_ago": 10
+  },
+  {
+    "deal_id": "D106",
+    "email_opens": 19,
+    "email_replies": 6,
+    "meetings": 0,
+    "avg_reply_time_hours": 53,
+    "last_engagement_days_ago": 10
+  },
+  {
+    "deal_id": "D107",
+    "email_opens": 1,
+    "email_replies": 0,
+    "meetings": 2,
+    "avg_reply_time_hours": 132,
+    "last_engagement_days_ago": 12
+  },
+  {
+    "deal_id": "D108",
+    "email_opens": 4,
+    "email_replies": 5,
+    "meetings": 1,
+    "avg_reply_time_hours": 30,
+    "last_engagement_days_ago": 21
+  },
+  {
+    "deal_id": "D109",
+    "email_opens": 3,
+    "email_replies": 7,
+    "meetings": 3,
+    "avg_reply_time_hours": 177,
+    "last_engagement_days_ago": 28
+  },
+  {
+    "deal_id": "D110",
+    "email_opens": 1,
+    "email_replies": 8,
+    "meetings": 0,
+    "avg_reply_time_hours": 108,
+    "last_engagement_days_ago": 28
+  },
+  {
+    "deal_id": "D111",
+    "email_opens": 20,
+    "email_replies": 4,
+    "meetings": 2,
+    "avg_reply_time_hours": 65,
+    "last_engagement_days_ago": 29
+  },
+  {
+    "deal_id": "D112",
+    "email_opens": 2,
+    "email_replies": 1,
+    "meetings": 3,
+    "avg_reply_time_hours": 128,
+    "last_engagement_days_ago": 19
+  },
+  {
+    "deal_id": "D113",
+    "email_opens": 7,
+    "email_replies": 8,
+    "meetings": 2,
+    "avg_reply_time_hours": 143,
+    "last_engagement_days_ago": 22
+  },
+  {
+    "deal_id": "D114",
+    "email_opens": 13,
+    "email_replies": 7,
+    "meetings": 0,
+    "avg_reply_time_hours": 60,
+    "last_engagement_days_ago": 6
+  },
+  {
+    "deal_id": "D115",
+    "email_opens": 4,
+    "email_replies": 1,
+    "meetings": 3,
+    "avg_reply_time_hours": 47,
+    "last_engagement_days_ago": 14
+  },
+  {
+    "deal_id": "D116",
+    "email_opens": 13,
+    "email_replies": 2,
+    "meetings": 0,
+    "avg_reply_time_hours": 75,
+    "last_engagement_days_ago": 27
+  },
+  {
+    "deal_id": "D117",
+    "email_opens": 9,
+    "email_replies": 8,
+    "meetings": 3,
+    "avg_reply_time_hours": 83,
+    "last_engagement_days_ago": 23
+  },
+  {
+    "deal_id": "D118",
+    "email_opens": 9,
+    "email_replies": 7,
+    "meetings": 0,
+    "avg_reply_time_hours": 47,
+    "last_engagement_days_ago": 21
+  },
+  {
+    "deal_id": "D119",
+    "email_opens": 10,
+    "email_replies": 8,
+    "meetings": 2,
+    "avg_reply_time_hours": 119,
+    "last_engagement_days_ago": 30
+  },
+  {
+    "deal_id": "D120",
+    "email_opens": 19,
+    "email_replies": 2,
+    "meetings": 1,
+    "avg_reply_time_hours": 138,
+    "last_engagement_days_ago": 5
+  },
+  {
+    "deal_id": "D121",
+    "email_opens": 17,
+    "email_replies": 6,
+    "meetings": 2,
+    "avg_reply_time_hours": 156,
+    "last_engagement_days_ago": 28
+  },
+  {
+    "deal_id": "D122",
+    "email_opens": 4,
+    "email_replies": 0,
+    "meetings": 0,
+    "avg_reply_time_hours": 140,
+    "last_engagement_days_ago": 1
+  },
+  {
+    "deal_id": "D123",
+    "email_opens": 14,
+    "email_replies": 8,
+    "meetings": 2,
+    "avg_reply_time_hours": 115,
+    "last_engagement_days_ago": 23
+  },
+  {
+    "deal_id": "D124",
+    "email_opens": 20,
+    "email_replies": 2,
+    "meetings": 0,
+    "avg_reply_time_hours": 25,
+    "last_engagement_days_ago": 27
+  },
+  {
+    "deal_id": "D125",
+    "email_opens": 10,
+    "email_replies": 6,
+    "meetings": 0,
+    "avg_reply_time_hours": 171,
+    "last_engagement_days_ago": 26
+  },
+  {
+    "deal_id": "D126",
+    "email_opens": 3,
+    "email_replies": 3,
+    "meetings": 2,
+    "avg_reply_time_hours": 40,
+    "last_engagement_days_ago": 18
+  },
+  {
+    "deal_id": "D127",
+    "email_opens": 7,
+    "email_replies": 5,
+    "meetings": 3,
+    "avg_reply_time_hours": 78,
+    "last_engagement_days_ago": 18
+  },
+  {
+    "deal_id": "D128",
+    "email_opens": 10,
+    "email_replies": 6,
+    "meetings": 0,
+    "avg_reply_time_hours": 165,
+    "last_engagement_days_ago": 24
+  },
+  {
+    "deal_id": "D129",
+    "email_opens": 3,
+    "email_replies": 4,
+    "meetings": 0,
+    "avg_reply_time_hours": 126,
+    "last_engagement_days_ago": 25
+  },
+  {
+    "deal_id": "D130",
+    "email_opens": 3,
+    "email_replies": 5,
+    "meetings": 0,
+    "avg_reply_time_hours": 65,
+    "last_engagement_days_ago": 27
+  },
+  {
+    "deal_id": "D131",
+    "email_opens": 15,
+    "email_replies": 1,
+    "meetings": 3,
+    "avg_reply_time_hours": 173,
+    "last_engagement_days_ago": 5
+  },
+  {
+    "deal_id": "D132",
+    "email_opens": 15,
+    "email_replies": 1,
+    "meetings": 1,
+    "avg_reply_time_hours": 59,
+    "last_engagement_days_ago": 19
+  },
+  {
+    "deal_id": "D133",
+    "email_opens": 3,
+    "email_replies": 4,
+    "meetings": 2,
+    "avg_reply_time_hours": 63,
+    "last_engagement_days_ago": 20
+  },
+  {
+    "deal_id": "D134",
+    "email_opens": 18,
+    "email_replies": 8,
+    "meetings": 1,
+    "avg_reply_time_hours": 20,
+    "last_engagement_days_ago": 24
+  },
+  {
+    "deal_id": "D135",
+    "email_opens": 7,
+    "email_replies": 7,
+    "meetings": 0,
+    "avg_reply_time_hours": 79,
+    "last_engagement_days_ago": 29
+  },
+  {
+    "deal_id": "D136",
+    "email_opens": 11,
+    "email_replies": 7,
+    "meetings": 0,
+    "avg_reply_time_hours": 12,
+    "last_engagement_days_ago": 16
+  },
+  {
+    "deal_id": "D137",
+    "email_opens": 16,
+    "email_replies": 2,
+    "meetings": 1,
+    "avg_reply_time_hours": 52,
+    "last_engagement_days_ago": 17
+  },
+  {
+    "deal_id": "D138",
+    "email_opens": 6,
+    "email_replies": 8,
+    "meetings": 0,
+    "avg_reply_time_hours": 79,
+    "last_engagement_days_ago": 2
+  },
+  {
+    "deal_id": "D139",
+    "email_opens": 9,
+    "email_replies": 1,
+    "meetings": 0,
+    "avg_reply_time_hours": 97,
+    "last_engagement_days_ago": 20
+  },
+  {
+    "deal_id": "D140",
+    "email_opens": 6,
+    "email_replies": 7,
+    "meetings": 0,
+    "avg_reply_time_hours": 156,
+    "last_engagement_days_ago": 28
+  },
+  {
+    "deal_id": "D141",
+    "email_opens": 11,
+    "email_replies": 3,
+    "meetings": 1,
+    "avg_reply_time_hours": 131,
+    "last_engagement_days_ago": 12
+  },
+  {
+    "deal_id": "D142",
+    "email_opens": 19,
+    "email_replies": 4,
+    "meetings": 3,
+    "avg_reply_time_hours": 90,
+    "last_engagement_days_ago": 7
+  },
+  {
+    "deal_id": "D143",
+    "email_opens": 11,
+    "email_replies": 8,
+    "meetings": 0,
+    "avg_reply_time_hours": 36,
+    "last_engagement_days_ago": 26
+  },
+  {
+    "deal_id": "D144",
+    "email_opens": 7,
+    "email_replies": 4,
+    "meetings": 3,
+    "avg_reply_time_hours": 47,
+    "last_engagement_days_ago": 21
+  },
+  {
+    "deal_id": "D145",
+    "email_opens": 11,
+    "email_replies": 3,
+    "meetings": 2,
+    "avg_reply_time_hours": 117,
+    "last_engagement_days_ago": 12
+  },
+  {
+    "deal_id": "D146",
+    "email_opens": 3,
+    "email_replies": 5,
+    "meetings": 3,
+    "avg_reply_time_hours": 19,
+    "last_engagement_days_ago": 1
+  },
+  {
+    "deal_id": "D147",
+    "email_opens": 9,
+    "email_replies": 7,
+    "meetings": 1,
+    "avg_reply_time_hours": 54,
+    "last_engagement_days_ago": 3
+  },
+  {
+    "deal_id": "D148",
+    "email_opens": 18,
+    "email_replies": 7,
+    "meetings": 1,
+    "avg_reply_time_hours": 162,
+    "last_engagement_days_ago": 9
+  },
+  {
+    "deal_id": "D149",
+    "email_opens": 6,
+    "email_replies": 6,
+    "meetings": 1,
+    "avg_reply_time_hours": 25,
+    "last_engagement_days_ago": 1
+  },
+  {
+    "deal_id": "D150",
+    "email_opens": 20,
+    "email_replies": 1,
+    "meetings": 3,
+    "avg_reply_time_hours": 147,
+    "last_engagement_days_ago": 27
+  },
+  {
+    "deal_id": "D151",
+    "email_opens": 9,
+    "email_replies": 6,
+    "meetings": 2,
+    "avg_reply_time_hours": 46,
+    "last_engagement_days_ago": 1
+  },
+  {
+    "deal_id": "D152",
+    "email_opens": 10,
+    "email_replies": 7,
+    "meetings": 2,
+    "avg_reply_time_hours": 165,
+    "last_engagement_days_ago": 12
+  },
+  {
+    "deal_id": "D153",
+    "email_opens": 7,
+    "email_replies": 8,
+    "meetings": 0,
+    "avg_reply_time_hours": 71,
+    "last_engagement_days_ago": 16
+  },
+  {
+    "deal_id": "D154",
+    "email_opens": 14,
+    "email_replies": 2,
+    "meetings": 0,
+    "avg_reply_time_hours": 66,
+    "last_engagement_days_ago": 10
+  },
+  {
+    "deal_id": "D155",
+    "email_opens": 4,
+    "email_replies": 0,
+    "meetings": 0,
+    "avg_reply_time_hours": 64,
+    "last_engagement_days_ago": 3
+  },
+  {
+    "deal_id": "D156",
+    "email_opens": 4,
+    "email_replies": 5,
+    "meetings": 3,
+    "avg_reply_time_hours": 122,
+    "last_engagement_days_ago": 17
+  },
+  {
+    "deal_id": "D157",
+    "email_opens": 19,
+    "email_replies": 2,
+    "meetings": 0,
+    "avg_reply_time_hours": 41,
+    "last_engagement_days_ago": 1
+  },
+  {
+    "deal_id": "D158",
+    "email_opens": 3,
+    "email_replies": 1,
+    "meetings": 0,
+    "avg_reply_time_hours": 104,
+    "last_engagement_days_ago": 28
+  },
+  {
+    "deal_id": "D159",
+    "email_opens": 12,
+    "email_replies": 7,
+    "meetings": 1,
+    "avg_reply_time_hours": 57,
+    "last_engagement_days_ago": 17
+  },
+  {
+    "deal_id": "D160",
+    "email_opens": 6,
+    "email_replies": 7,
+    "meetings": 3,
+    "avg_reply_time_hours": 50,
+    "last_engagement_days_ago": 29
+  },
+  {
+    "deal_id": "D161",
+    "email_opens": 18,
+    "email_replies": 0,
+    "meetings": 2,
+    "avg_reply_time_hours": 28,
+    "last_engagement_days_ago": 30
+  },
+  {
+    "deal_id": "D162",
+    "email_opens": 15,
+    "email_replies": 1,
+    "meetings": 3,
+    "avg_reply_time_hours": 18,
+    "last_engagement_days_ago": 20
+  },
+  {
+    "deal_id": "D163",
+    "email_opens": 17,
+    "email_replies": 6,
+    "meetings": 0,
+    "avg_reply_time_hours": 174,
+    "last_engagement_days_ago": 30
+  },
+  {
+    "deal_id": "D164",
+    "email_opens": 16,
+    "email_replies": 2,
+    "meetings": 1,
+    "avg_reply_time_hours": 142,
+    "last_engagement_days_ago": 0
+  },
+  {
+    "deal_id": "D165",
+    "email_opens": 11,
+    "email_replies": 0,
+    "meetings": 1,
+    "avg_reply_time_hours": 136,
+    "last_engagement_days_ago": 10
+  },
+  {
+    "deal_id": "D166",
+    "email_opens": 10,
+    "email_replies": 5,
+    "meetings": 2,
+    "avg_reply_time_hours": 54,
+    "last_engagement_days_ago": 10
+  },
+  {
+    "deal_id": "D167",
+    "email_opens": 1,
+    "email_replies": 0,
+    "meetings": 2,
+    "avg_reply_time_hours": 104,
+    "last_engagement_days_ago": 22
+  },
+  {
+    "deal_id": "D168",
+    "email_opens": 20,
+    "email_replies": 5,
+    "meetings": 3,
+    "avg_reply_time_hours": 57,
+    "last_engagement_days_ago": 19
+  },
+  {
+    "deal_id": "D169",
+    "email_opens": 15,
+    "email_replies": 8,
+    "meetings": 0,
+    "avg_reply_time_hours": 145,
+    "last_engagement_days_ago": 28
+  },
+  {
+    "deal_id": "D170",
+    "email_opens": 6,
+    "email_replies": 0,
+    "meetings": 2,
+    "avg_reply_time_hours": 148,
+    "last_engagement_days_ago": 11
+  },
+  {
+    "deal_id": "D171",
+    "email_opens": 1,
+    "email_replies": 0,
+    "meetings": 3,
+    "avg_reply_time_hours": 173,
     "last_engagement_days_ago": 15
+  },
+  {
+    "deal_id": "D172",
+    "email_opens": 7,
+    "email_replies": 6,
+    "meetings": 3,
+    "avg_reply_time_hours": 30,
+    "last_engagement_days_ago": 13
+  },
+  {
+    "deal_id": "D173",
+    "email_opens": 15,
+    "email_replies": 3,
+    "meetings": 2,
+    "avg_reply_time_hours": 175,
+    "last_engagement_days_ago": 27
+  },
+  {
+    "deal_id": "D174",
+    "email_opens": 19,
+    "email_replies": 4,
+    "meetings": 3,
+    "avg_reply_time_hours": 97,
+    "last_engagement_days_ago": 21
+  },
+  {
+    "deal_id": "D175",
+    "email_opens": 13,
+    "email_replies": 3,
+    "meetings": 1,
+    "avg_reply_time_hours": 130,
+    "last_engagement_days_ago": 18
+  },
+  {
+    "deal_id": "D176",
+    "email_opens": 14,
+    "email_replies": 5,
+    "meetings": 2,
+    "avg_reply_time_hours": 156,
+    "last_engagement_days_ago": 9
+  },
+  {
+    "deal_id": "D177",
+    "email_opens": 3,
+    "email_replies": 7,
+    "meetings": 0,
+    "avg_reply_time_hours": 25,
+    "last_engagement_days_ago": 20
+  },
+  {
+    "deal_id": "D178",
+    "email_opens": 20,
+    "email_replies": 5,
+    "meetings": 1,
+    "avg_reply_time_hours": 124,
+    "last_engagement_days_ago": 28
+  },
+  {
+    "deal_id": "D179",
+    "email_opens": 7,
+    "email_replies": 8,
+    "meetings": 2,
+    "avg_reply_time_hours": 12,
+    "last_engagement_days_ago": 30
+  },
+  {
+    "deal_id": "D180",
+    "email_opens": 17,
+    "email_replies": 2,
+    "meetings": 2,
+    "avg_reply_time_hours": 99,
+    "last_engagement_days_ago": 27
+  },
+  {
+    "deal_id": "D181",
+    "email_opens": 4,
+    "email_replies": 8,
+    "meetings": 2,
+    "avg_reply_time_hours": 170,
+    "last_engagement_days_ago": 27
+  },
+  {
+    "deal_id": "D182",
+    "email_opens": 18,
+    "email_replies": 2,
+    "meetings": 1,
+    "avg_reply_time_hours": 135,
+    "last_engagement_days_ago": 18
+  },
+  {
+    "deal_id": "D183",
+    "email_opens": 20,
+    "email_replies": 6,
+    "meetings": 2,
+    "avg_reply_time_hours": 164,
+    "last_engagement_days_ago": 5
+  },
+  {
+    "deal_id": "D184",
+    "email_opens": 1,
+    "email_replies": 2,
+    "meetings": 2,
+    "avg_reply_time_hours": 50,
+    "last_engagement_days_ago": 6
+  },
+  {
+    "deal_id": "D185",
+    "email_opens": 15,
+    "email_replies": 3,
+    "meetings": 1,
+    "avg_reply_time_hours": 72,
+    "last_engagement_days_ago": 4
+  },
+  {
+    "deal_id": "D186",
+    "email_opens": 4,
+    "email_replies": 7,
+    "meetings": 0,
+    "avg_reply_time_hours": 54,
+    "last_engagement_days_ago": 20
+  },
+  {
+    "deal_id": "D187",
+    "email_opens": 10,
+    "email_replies": 8,
+    "meetings": 1,
+    "avg_reply_time_hours": 41,
+    "last_engagement_days_ago": 16
+  },
+  {
+    "deal_id": "D188",
+    "email_opens": 2,
+    "email_replies": 6,
+    "meetings": 2,
+    "avg_reply_time_hours": 14,
+    "last_engagement_days_ago": 6
+  },
+  {
+    "deal_id": "D189",
+    "email_opens": 17,
+    "email_replies": 6,
+    "meetings": 2,
+    "avg_reply_time_hours": 29,
+    "last_engagement_days_ago": 10
+  },
+  {
+    "deal_id": "D190",
+    "email_opens": 2,
+    "email_replies": 5,
+    "meetings": 3,
+    "avg_reply_time_hours": 32,
+    "last_engagement_days_ago": 19
+  },
+  {
+    "deal_id": "D191",
+    "email_opens": 1,
+    "email_replies": 1,
+    "meetings": 2,
+    "avg_reply_time_hours": 81,
+    "last_engagement_days_ago": 24
+  },
+  {
+    "deal_id": "D192",
+    "email_opens": 12,
+    "email_replies": 6,
+    "meetings": 2,
+    "avg_reply_time_hours": 126,
+    "last_engagement_days_ago": 23
+  },
+  {
+    "deal_id": "D193",
+    "email_opens": 15,
+    "email_replies": 6,
+    "meetings": 0,
+    "avg_reply_time_hours": 74,
+    "last_engagement_days_ago": 9
+  },
+  {
+    "deal_id": "D194",
+    "email_opens": 6,
+    "email_replies": 6,
+    "meetings": 3,
+    "avg_reply_time_hours": 107,
+    "last_engagement_days_ago": 0
+  },
+  {
+    "deal_id": "D195",
+    "email_opens": 11,
+    "email_replies": 7,
+    "meetings": 3,
+    "avg_reply_time_hours": 61,
+    "last_engagement_days_ago": 5
+  },
+  {
+    "deal_id": "D196",
+    "email_opens": 19,
+    "email_replies": 3,
+    "meetings": 1,
+    "avg_reply_time_hours": 85,
+    "last_engagement_days_ago": 30
+  },
+  {
+    "deal_id": "D197",
+    "email_opens": 17,
+    "email_replies": 8,
+    "meetings": 0,
+    "avg_reply_time_hours": 141,
+    "last_engagement_days_ago": 8
+  },
+  {
+    "deal_id": "D198",
+    "email_opens": 8,
+    "email_replies": 7,
+    "meetings": 3,
+    "avg_reply_time_hours": 120,
+    "last_engagement_days_ago": 3
+  },
+  {
+    "deal_id": "D199",
+    "email_opens": 20,
+    "email_replies": 3,
+    "meetings": 0,
+    "avg_reply_time_hours": 144,
+    "last_engagement_days_ago": 26
+  },
+  {
+    "deal_id": "D200",
+    "email_opens": 11,
+    "email_replies": 0,
+    "meetings": 1,
+    "avg_reply_time_hours": 174,
+    "last_engagement_days_ago": 19
   }
 ]

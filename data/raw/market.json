@@ -2,22 +2,1401 @@
   {
     "deal_id": "D001",
     "signals": [
-      "CompetitorX offering aggressive pricing",
-      "AI adoption increasing in fintech sector"
+      "Regulatory pressure delaying deals",
+      "AI adoption increasing in sector"
     ]
   },
   {
     "deal_id": "D002",
     "signals": [
-      "Budget cuts in healthcare sector",
-      "Long procurement cycles expected"
+      "New subsidized programs launched",
+      "AI adoption increasing in sector"
+    ]
+  },
+  {
+    "deal_id": "D003",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "Budget cuts impacting buying cycle"
     ]
   },
   {
     "deal_id": "D004",
     "signals": [
-      "Regulatory pressure delaying banking deals",
-      "CompetitorY gaining traction"
+      "CompetitorX offering aggressive pricing",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D005",
+    "signals": [
+      "Seasonal demand bump",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D006",
+    "signals": [
+      "Tech transformation initiative underway",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D007",
+    "signals": [
+      "Budget cuts impacting buying cycle",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D008",
+    "signals": [
+      "CompetitorX offering aggressive pricing",
+      "Sector demand spike"
+    ]
+  },
+  {
+    "deal_id": "D009",
+    "signals": [
+      "Economic uncertainty reducing spend",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D010",
+    "signals": [
+      "Long procurement cycles expected",
+      "Sector demand spike"
+    ]
+  },
+  {
+    "deal_id": "D011",
+    "signals": [
+      "Seasonal demand bump",
+      "Tech transformation initiative underway"
+    ]
+  },
+  {
+    "deal_id": "D012",
+    "signals": [
+      "Long procurement cycles expected",
+      "Regulatory pressure delaying deals"
+    ]
+  },
+  {
+    "deal_id": "D013",
+    "signals": [
+      "Economic uncertainty reducing spend",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D014",
+    "signals": [
+      "AI adoption increasing in sector",
+      "Economic uncertainty reducing spend"
+    ]
+  },
+  {
+    "deal_id": "D015",
+    "signals": [
+      "Long procurement cycles expected",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D016",
+    "signals": [
+      "Budget cuts impacting buying cycle",
+      "Regulatory pressure delaying deals"
+    ]
+  },
+  {
+    "deal_id": "D017",
+    "signals": [
+      "Long procurement cycles expected",
+      "Economic uncertainty reducing spend"
+    ]
+  },
+  {
+    "deal_id": "D018",
+    "signals": [
+      "CompetitorX offering aggressive pricing",
+      "Economic uncertainty reducing spend"
+    ]
+  },
+  {
+    "deal_id": "D019",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D020",
+    "signals": [
+      "Seasonal demand bump",
+      "Economic uncertainty reducing spend"
+    ]
+  },
+  {
+    "deal_id": "D021",
+    "signals": [
+      "New subsidized programs launched",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D022",
+    "signals": [
+      "New subsidized programs launched",
+      "CompetitorX offering aggressive pricing"
+    ]
+  },
+  {
+    "deal_id": "D023",
+    "signals": [
+      "Sector demand spike",
+      "Regulatory pressure delaying deals"
+    ]
+  },
+  {
+    "deal_id": "D024",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "AI adoption increasing in sector"
+    ]
+  },
+  {
+    "deal_id": "D025",
+    "signals": [
+      "Seasonal demand bump",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D026",
+    "signals": [
+      "AI adoption increasing in sector",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D027",
+    "signals": [
+      "Long procurement cycles expected",
+      "AI adoption increasing in sector"
+    ]
+  },
+  {
+    "deal_id": "D028",
+    "signals": [
+      "Long procurement cycles expected",
+      "Sector demand spike"
+    ]
+  },
+  {
+    "deal_id": "D029",
+    "signals": [
+      "Budget cuts impacting buying cycle",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D030",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "Tech transformation initiative underway"
+    ]
+  },
+  {
+    "deal_id": "D031",
+    "signals": [
+      "New subsidized programs launched",
+      "Regulatory pressure delaying deals"
+    ]
+  },
+  {
+    "deal_id": "D032",
+    "signals": [
+      "Long procurement cycles expected",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D033",
+    "signals": [
+      "Long procurement cycles expected",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D034",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D035",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "Economic uncertainty reducing spend"
+    ]
+  },
+  {
+    "deal_id": "D036",
+    "signals": [
+      "Tech transformation initiative underway",
+      "AI adoption increasing in sector"
+    ]
+  },
+  {
+    "deal_id": "D037",
+    "signals": [
+      "Sector demand spike",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D038",
+    "signals": [
+      "Long procurement cycles expected",
+      "Regulatory pressure delaying deals"
+    ]
+  },
+  {
+    "deal_id": "D039",
+    "signals": [
+      "Tech transformation initiative underway",
+      "Economic uncertainty reducing spend"
+    ]
+  },
+  {
+    "deal_id": "D040",
+    "signals": [
+      "Economic uncertainty reducing spend",
+      "AI adoption increasing in sector"
+    ]
+  },
+  {
+    "deal_id": "D041",
+    "signals": [
+      "AI adoption increasing in sector",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D042",
+    "signals": [
+      "Budget cuts impacting buying cycle",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D043",
+    "signals": [
+      "Economic uncertainty reducing spend",
+      "CompetitorX offering aggressive pricing"
+    ]
+  },
+  {
+    "deal_id": "D044",
+    "signals": [
+      "Sector demand spike",
+      "CompetitorX offering aggressive pricing"
+    ]
+  },
+  {
+    "deal_id": "D045",
+    "signals": [
+      "Sector demand spike",
+      "Tech transformation initiative underway"
+    ]
+  },
+  {
+    "deal_id": "D046",
+    "signals": [
+      "Long procurement cycles expected",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D047",
+    "signals": [
+      "Seasonal demand bump",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D048",
+    "signals": [
+      "AI adoption increasing in sector",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D049",
+    "signals": [
+      "Sector demand spike",
+      "AI adoption increasing in sector"
+    ]
+  },
+  {
+    "deal_id": "D050",
+    "signals": [
+      "Economic uncertainty reducing spend",
+      "CompetitorX offering aggressive pricing"
+    ]
+  },
+  {
+    "deal_id": "D051",
+    "signals": [
+      "CompetitorX offering aggressive pricing",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D052",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "Sector demand spike"
+    ]
+  },
+  {
+    "deal_id": "D053",
+    "signals": [
+      "Budget cuts impacting buying cycle",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D054",
+    "signals": [
+      "New subsidized programs launched",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D055",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "Economic uncertainty reducing spend"
+    ]
+  },
+  {
+    "deal_id": "D056",
+    "signals": [
+      "AI adoption increasing in sector",
+      "Regulatory pressure delaying deals"
+    ]
+  },
+  {
+    "deal_id": "D057",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D058",
+    "signals": [
+      "Seasonal demand bump",
+      "AI adoption increasing in sector"
+    ]
+  },
+  {
+    "deal_id": "D059",
+    "signals": [
+      "New subsidized programs launched",
+      "AI adoption increasing in sector"
+    ]
+  },
+  {
+    "deal_id": "D060",
+    "signals": [
+      "Tech transformation initiative underway",
+      "Economic uncertainty reducing spend"
+    ]
+  },
+  {
+    "deal_id": "D061",
+    "signals": [
+      "Tech transformation initiative underway",
+      "Economic uncertainty reducing spend"
+    ]
+  },
+  {
+    "deal_id": "D062",
+    "signals": [
+      "New subsidized programs launched",
+      "CompetitorX offering aggressive pricing"
+    ]
+  },
+  {
+    "deal_id": "D063",
+    "signals": [
+      "Sector demand spike",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D064",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "Tech transformation initiative underway"
+    ]
+  },
+  {
+    "deal_id": "D065",
+    "signals": [
+      "Tech transformation initiative underway",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D066",
+    "signals": [
+      "Tech transformation initiative underway",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D067",
+    "signals": [
+      "CompetitorX offering aggressive pricing",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D068",
+    "signals": [
+      "New subsidized programs launched",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D069",
+    "signals": [
+      "Sector demand spike",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D070",
+    "signals": [
+      "Long procurement cycles expected",
+      "CompetitorX offering aggressive pricing"
+    ]
+  },
+  {
+    "deal_id": "D071",
+    "signals": [
+      "Budget cuts impacting buying cycle",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D072",
+    "signals": [
+      "Seasonal demand bump",
+      "CompetitorX offering aggressive pricing"
+    ]
+  },
+  {
+    "deal_id": "D073",
+    "signals": [
+      "New subsidized programs launched",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D074",
+    "signals": [
+      "Budget cuts impacting buying cycle",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D075",
+    "signals": [
+      "Seasonal demand bump",
+      "AI adoption increasing in sector"
+    ]
+  },
+  {
+    "deal_id": "D076",
+    "signals": [
+      "Budget cuts impacting buying cycle",
+      "Economic uncertainty reducing spend"
+    ]
+  },
+  {
+    "deal_id": "D077",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D078",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "Economic uncertainty reducing spend"
+    ]
+  },
+  {
+    "deal_id": "D079",
+    "signals": [
+      "CompetitorX offering aggressive pricing",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D080",
+    "signals": [
+      "AI adoption increasing in sector",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D081",
+    "signals": [
+      "AI adoption increasing in sector",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D082",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D083",
+    "signals": [
+      "Economic uncertainty reducing spend",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D084",
+    "signals": [
+      "New subsidized programs launched",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D085",
+    "signals": [
+      "Seasonal demand bump",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D086",
+    "signals": [
+      "Budget cuts impacting buying cycle",
+      "AI adoption increasing in sector"
+    ]
+  },
+  {
+    "deal_id": "D087",
+    "signals": [
+      "Sector demand spike",
+      "CompetitorX offering aggressive pricing"
+    ]
+  },
+  {
+    "deal_id": "D088",
+    "signals": [
+      "CompetitorX offering aggressive pricing",
+      "AI adoption increasing in sector"
+    ]
+  },
+  {
+    "deal_id": "D089",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "Tech transformation initiative underway"
+    ]
+  },
+  {
+    "deal_id": "D090",
+    "signals": [
+      "Sector demand spike",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D091",
+    "signals": [
+      "CompetitorX offering aggressive pricing",
+      "Regulatory pressure delaying deals"
+    ]
+  },
+  {
+    "deal_id": "D092",
+    "signals": [
+      "Sector demand spike",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D093",
+    "signals": [
+      "Economic uncertainty reducing spend",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D094",
+    "signals": [
+      "AI adoption increasing in sector",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D095",
+    "signals": [
+      "Seasonal demand bump",
+      "Sector demand spike"
+    ]
+  },
+  {
+    "deal_id": "D096",
+    "signals": [
+      "Seasonal demand bump",
+      "Sector demand spike"
+    ]
+  },
+  {
+    "deal_id": "D097",
+    "signals": [
+      "Seasonal demand bump",
+      "CompetitorX offering aggressive pricing"
+    ]
+  },
+  {
+    "deal_id": "D098",
+    "signals": [
+      "Seasonal demand bump",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D099",
+    "signals": [
+      "Seasonal demand bump",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D100",
+    "signals": [
+      "Seasonal demand bump",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D101",
+    "signals": [
+      "Budget cuts impacting buying cycle",
+      "AI adoption increasing in sector"
+    ]
+  },
+  {
+    "deal_id": "D102",
+    "signals": [
+      "Tech transformation initiative underway",
+      "Regulatory pressure delaying deals"
+    ]
+  },
+  {
+    "deal_id": "D103",
+    "signals": [
+      "Long procurement cycles expected",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D104",
+    "signals": [
+      "Tech transformation initiative underway",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D105",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "Tech transformation initiative underway"
+    ]
+  },
+  {
+    "deal_id": "D106",
+    "signals": [
+      "CompetitorX offering aggressive pricing",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D107",
+    "signals": [
+      "Long procurement cycles expected",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D108",
+    "signals": [
+      "Tech transformation initiative underway",
+      "Sector demand spike"
+    ]
+  },
+  {
+    "deal_id": "D109",
+    "signals": [
+      "CompetitorX offering aggressive pricing",
+      "Economic uncertainty reducing spend"
+    ]
+  },
+  {
+    "deal_id": "D110",
+    "signals": [
+      "Tech transformation initiative underway",
+      "Regulatory pressure delaying deals"
+    ]
+  },
+  {
+    "deal_id": "D111",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D112",
+    "signals": [
+      "Long procurement cycles expected",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D113",
+    "signals": [
+      "AI adoption increasing in sector",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D114",
+    "signals": [
+      "Budget cuts impacting buying cycle",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D115",
+    "signals": [
+      "Economic uncertainty reducing spend",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D116",
+    "signals": [
+      "Tech transformation initiative underway",
+      "AI adoption increasing in sector"
+    ]
+  },
+  {
+    "deal_id": "D117",
+    "signals": [
+      "CompetitorX offering aggressive pricing",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D118",
+    "signals": [
+      "Budget cuts impacting buying cycle",
+      "Sector demand spike"
+    ]
+  },
+  {
+    "deal_id": "D119",
+    "signals": [
+      "New subsidized programs launched",
+      "CompetitorX offering aggressive pricing"
+    ]
+  },
+  {
+    "deal_id": "D120",
+    "signals": [
+      "Economic uncertainty reducing spend",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D121",
+    "signals": [
+      "Seasonal demand bump",
+      "Regulatory pressure delaying deals"
+    ]
+  },
+  {
+    "deal_id": "D122",
+    "signals": [
+      "Sector demand spike",
+      "Economic uncertainty reducing spend"
+    ]
+  },
+  {
+    "deal_id": "D123",
+    "signals": [
+      "AI adoption increasing in sector",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D124",
+    "signals": [
+      "AI adoption increasing in sector",
+      "CompetitorX offering aggressive pricing"
+    ]
+  },
+  {
+    "deal_id": "D125",
+    "signals": [
+      "Economic uncertainty reducing spend",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D126",
+    "signals": [
+      "Tech transformation initiative underway",
+      "Sector demand spike"
+    ]
+  },
+  {
+    "deal_id": "D127",
+    "signals": [
+      "Seasonal demand bump",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D128",
+    "signals": [
+      "Tech transformation initiative underway",
+      "Economic uncertainty reducing spend"
+    ]
+  },
+  {
+    "deal_id": "D129",
+    "signals": [
+      "Economic uncertainty reducing spend",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D130",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "CompetitorX offering aggressive pricing"
+    ]
+  },
+  {
+    "deal_id": "D131",
+    "signals": [
+      "Long procurement cycles expected",
+      "AI adoption increasing in sector"
+    ]
+  },
+  {
+    "deal_id": "D132",
+    "signals": [
+      "AI adoption increasing in sector",
+      "Tech transformation initiative underway"
+    ]
+  },
+  {
+    "deal_id": "D133",
+    "signals": [
+      "New subsidized programs launched",
+      "Regulatory pressure delaying deals"
+    ]
+  },
+  {
+    "deal_id": "D134",
+    "signals": [
+      "CompetitorX offering aggressive pricing",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D135",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D136",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "CompetitorX offering aggressive pricing"
+    ]
+  },
+  {
+    "deal_id": "D137",
+    "signals": [
+      "CompetitorX offering aggressive pricing",
+      "Tech transformation initiative underway"
+    ]
+  },
+  {
+    "deal_id": "D138",
+    "signals": [
+      "Budget cuts impacting buying cycle",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D139",
+    "signals": [
+      "Economic uncertainty reducing spend",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D140",
+    "signals": [
+      "AI adoption increasing in sector",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D141",
+    "signals": [
+      "Budget cuts impacting buying cycle",
+      "Regulatory pressure delaying deals"
+    ]
+  },
+  {
+    "deal_id": "D142",
+    "signals": [
+      "AI adoption increasing in sector",
+      "Sector demand spike"
+    ]
+  },
+  {
+    "deal_id": "D143",
+    "signals": [
+      "Tech transformation initiative underway",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D144",
+    "signals": [
+      "Sector demand spike",
+      "Regulatory pressure delaying deals"
+    ]
+  },
+  {
+    "deal_id": "D145",
+    "signals": [
+      "CompetitorX offering aggressive pricing",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D146",
+    "signals": [
+      "Economic uncertainty reducing spend",
+      "Sector demand spike"
+    ]
+  },
+  {
+    "deal_id": "D147",
+    "signals": [
+      "Seasonal demand bump",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D148",
+    "signals": [
+      "Sector demand spike",
+      "Tech transformation initiative underway"
+    ]
+  },
+  {
+    "deal_id": "D149",
+    "signals": [
+      "Economic uncertainty reducing spend",
+      "AI adoption increasing in sector"
+    ]
+  },
+  {
+    "deal_id": "D150",
+    "signals": [
+      "Seasonal demand bump",
+      "Regulatory pressure delaying deals"
+    ]
+  },
+  {
+    "deal_id": "D151",
+    "signals": [
+      "Economic uncertainty reducing spend",
+      "Regulatory pressure delaying deals"
+    ]
+  },
+  {
+    "deal_id": "D152",
+    "signals": [
+      "New subsidized programs launched",
+      "Sector demand spike"
+    ]
+  },
+  {
+    "deal_id": "D153",
+    "signals": [
+      "AI adoption increasing in sector",
+      "CompetitorX offering aggressive pricing"
+    ]
+  },
+  {
+    "deal_id": "D154",
+    "signals": [
+      "CompetitorX offering aggressive pricing",
+      "Regulatory pressure delaying deals"
+    ]
+  },
+  {
+    "deal_id": "D155",
+    "signals": [
+      "Sector demand spike",
+      "Economic uncertainty reducing spend"
+    ]
+  },
+  {
+    "deal_id": "D156",
+    "signals": [
+      "AI adoption increasing in sector",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D157",
+    "signals": [
+      "Tech transformation initiative underway",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D158",
+    "signals": [
+      "AI adoption increasing in sector",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D159",
+    "signals": [
+      "Budget cuts impacting buying cycle",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D160",
+    "signals": [
+      "Sector demand spike",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D161",
+    "signals": [
+      "AI adoption increasing in sector",
+      "Economic uncertainty reducing spend"
+    ]
+  },
+  {
+    "deal_id": "D162",
+    "signals": [
+      "New subsidized programs launched",
+      "Economic uncertainty reducing spend"
+    ]
+  },
+  {
+    "deal_id": "D163",
+    "signals": [
+      "Tech transformation initiative underway",
+      "Regulatory pressure delaying deals"
+    ]
+  },
+  {
+    "deal_id": "D164",
+    "signals": [
+      "Seasonal demand bump",
+      "AI adoption increasing in sector"
+    ]
+  },
+  {
+    "deal_id": "D165",
+    "signals": [
+      "Tech transformation initiative underway",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D166",
+    "signals": [
+      "CompetitorX offering aggressive pricing",
+      "Economic uncertainty reducing spend"
+    ]
+  },
+  {
+    "deal_id": "D167",
+    "signals": [
+      "CompetitorX offering aggressive pricing",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D168",
+    "signals": [
+      "AI adoption increasing in sector",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D169",
+    "signals": [
+      "Tech transformation initiative underway",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D170",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D171",
+    "signals": [
+      "AI adoption increasing in sector",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D172",
+    "signals": [
+      "Tech transformation initiative underway",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D173",
+    "signals": [
+      "CompetitorX offering aggressive pricing",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D174",
+    "signals": [
+      "Long procurement cycles expected",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D175",
+    "signals": [
+      "New subsidized programs launched",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D176",
+    "signals": [
+      "AI adoption increasing in sector",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D177",
+    "signals": [
+      "Sector demand spike",
+      "AI adoption increasing in sector"
+    ]
+  },
+  {
+    "deal_id": "D178",
+    "signals": [
+      "Long procurement cycles expected",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D179",
+    "signals": [
+      "AI adoption increasing in sector",
+      "Regulatory pressure delaying deals"
+    ]
+  },
+  {
+    "deal_id": "D180",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "Tech transformation initiative underway"
+    ]
+  },
+  {
+    "deal_id": "D181",
+    "signals": [
+      "Sector demand spike",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D182",
+    "signals": [
+      "CompetitorX offering aggressive pricing",
+      "Sector demand spike"
+    ]
+  },
+  {
+    "deal_id": "D183",
+    "signals": [
+      "AI adoption increasing in sector",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D184",
+    "signals": [
+      "Economic uncertainty reducing spend",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D185",
+    "signals": [
+      "Budget cuts impacting buying cycle",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D186",
+    "signals": [
+      "Budget cuts impacting buying cycle",
+      "Regulatory pressure delaying deals"
+    ]
+  },
+  {
+    "deal_id": "D187",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D188",
+    "signals": [
+      "CompetitorX offering aggressive pricing",
+      "Economic uncertainty reducing spend"
+    ]
+  },
+  {
+    "deal_id": "D189",
+    "signals": [
+      "New subsidized programs launched",
+      "Sector demand spike"
+    ]
+  },
+  {
+    "deal_id": "D190",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D191",
+    "signals": [
+      "Sector demand spike",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D192",
+    "signals": [
+      "Seasonal demand bump",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D193",
+    "signals": [
+      "Economic uncertainty reducing spend",
+      "New subsidized programs launched"
+    ]
+  },
+  {
+    "deal_id": "D194",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D195",
+    "signals": [
+      "Sector demand spike",
+      "Long procurement cycles expected"
+    ]
+  },
+  {
+    "deal_id": "D196",
+    "signals": [
+      "New subsidized programs launched",
+      "Budget cuts impacting buying cycle"
+    ]
+  },
+  {
+    "deal_id": "D197",
+    "signals": [
+      "New subsidized programs launched",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D198",
+    "signals": [
+      "Tech transformation initiative underway",
+      "Seasonal demand bump"
+    ]
+  },
+  {
+    "deal_id": "D199",
+    "signals": [
+      "Regulatory pressure delaying deals",
+      "Economic uncertainty reducing spend"
+    ]
+  },
+  {
+    "deal_id": "D200",
+    "signals": [
+      "AI adoption increasing in sector",
+      "Economic uncertainty reducing spend"
     ]
   }
 ]
