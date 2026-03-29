@@ -147,7 +147,7 @@ autonomous-deal-ai/
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 git clone <your-repo-url>  
