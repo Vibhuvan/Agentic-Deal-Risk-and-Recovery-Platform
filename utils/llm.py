@@ -1,19 +1,17 @@
 from dotenv import load_dotenv
 import os
-from openai import OpenAI
-
 load_dotenv(override=True)
+from google import genai
 
-# Initialize OpenAI client
-api_key = os.getenv("OPENAI_API_KEY")
-client = OpenAI(api_key=api_key)
+
+#print("GEMINI_API_KEY:", os.getenv("GEMINI_API_KEY"))
+# Initialize client (API key auto from env: GEMINI_API_KEY)
+client = genai.Client()
 
 def call_gemini(prompt: str) -> str:
-    """Call OpenAI API (function name kept for backward compatibility)"""
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[
-            {"role": "user", "content": prompt}
-        ]
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",   # or "gemini-3-flash-preview"
+        contents=prompt
     )
-    return response.choices[0].message.content
+    return response.text
+
