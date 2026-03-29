@@ -1,6 +1,9 @@
 from dotenv import load_dotenv
-load_dotenv()
+import os
+load_dotenv(override=True)
 from google import genai
+
+
 
 # Initialize client (API key auto from env: GEMINI_API_KEY)
 client = genai.Client()
