@@ -34,7 +34,7 @@ We built a **multi-agent autonomous system** that:
 - Streams decisions in real-time  
 
 
-## 🧠 System Architecture
+## System Architecture
 
 ![Architecture Diagram](assets/architecture.png)
 
