@@ -2,3 +2,4 @@ langgraph
 python-dateutil
 pandas
 streamlit
+openai
