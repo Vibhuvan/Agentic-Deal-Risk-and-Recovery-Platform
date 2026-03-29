@@ -1,4 +1,4 @@
-from utils.llm import call_gemini
+from utils.llm import call_openai
 from utils.prompts import build_strategy_prompt
 from utils.parser import extract_json
 
@@ -12,8 +12,8 @@ def strategy_node(state):
     # Build prompt
     prompt = build_strategy_prompt(deal, signals, risk)
 
-    # Call Gemini
-    response_text = call_gemini(prompt)
+    # Call OpenAI
+    response_text = call_openai(prompt)
 
     # Parse JSON
     strategy_data = extract_json(response_text)

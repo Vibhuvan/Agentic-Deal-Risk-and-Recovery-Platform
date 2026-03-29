@@ -1,4 +1,4 @@
-from utils.llm import call_gemini
+from utils.llm import call_openai
 from utils.prompts import build_risk_prompt
 from utils.parser import extract_json
 
@@ -16,13 +16,13 @@ def risk_node(state):
         deal, emails, engagement, market, signals
     )
 
-    # Call Gemini
-    response_text = call_gemini(prompt)
+    # Call OpenAI
+    response_text = call_openai(prompt)
 
     # Parse JSON
     risk_data = extract_json(response_text)
 
-    logs.append("Risk agent (Gemini MCP) executed")
+    logs.append("Risk agent (OpenAI MCP) executed")
     logs.append(f"Risk Score: {risk_data.get('risk_score')}")
     logs.append(f"Confidence: {risk_data.get('confidence')}")
 

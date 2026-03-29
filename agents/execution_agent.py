@@ -1,4 +1,4 @@
-from utils.llm import call_gemini
+from utils.llm import call_openai
 from utils.prompts import build_execution_prompt
 from utils.parser import extract_json
 from datetime import datetime
@@ -13,8 +13,8 @@ def execution_node(state):
     # Build prompt
     prompt = build_execution_prompt(deal, strategy, risk)
 
-    # Call Gemini
-    response_text = call_gemini(prompt)
+    # Call OpenAI
+    response_text = call_openai(prompt)
 
     # Parse response
     content = extract_json(response_text)

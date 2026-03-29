@@ -2,3 +2,5 @@ langgraph
 python-dateutil
 pandas
 streamlit
+openai
+python-dotenv
