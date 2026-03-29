@@ -112,36 +112,35 @@ This enables **true autonomy**, not just sequential processing.
 
 ## Project Structure
 
-autonomous-deal-ai/
-├── agents/
-│   ├── planner_agent.py
-│   ├── fusion_agent.py
-│   ├── risk_agent.py
-│   ├── strategy_agent.py
-│   ├── execution_agent.py
-│   ├── feedback_agent.py
-│   └── portfolio_agent.py
-│
+autonomous-deal-ai/  
+├── agents/  
+│   ├── planner_agent.py  
+│   ├── fusion_agent.py  
+│   ├── risk_agent.py  
+│   ├── strategy_agent.py  
+│   ├── execution_agent.py  
+│   ├── feedback_agent.py  
+│   └── portfolio_agent.py  
+│  
 ├── orchestration/
-│   ├── engine.py
-│   └── graph_runner.py
+│   └── engine.py
 │
-├── frontend/
-│   └── app.py
-│
-├── data/
-│   └── raw/
-│       ├── crm_deals.json
-│       ├── emails.json
-│       ├── engagement.json
-│       └── market.json
-│
-├── utils/
-│   ├── llm.py
-│   ├── parser.py
-│   └── prompts.py
-│
-└── run.py
+├── frontend/  
+│   └── app.py  
+│  
+├── data/  
+│   └── raw/  
+│       ├── crm_deals.json  
+│       ├── emails.json  
+│       ├── engagement.json  
+│       └── market.json  
+│  
+├── utils/  
+│   ├── llm.py  
+│   ├── parser.py  
+│   └── prompts.py  
+│  
+└── run.py  
 
 
 ## Setup Instructions
