@@ -99,7 +99,6 @@ The system uses a **hybrid orchestration model**:
 This enables **true autonomy**, not just sequential processing.
 
 
-
 ## Features
 
 - Natural language control (e.g., "recover this deal")  
@@ -110,7 +109,6 @@ This enables **true autonomy**, not just sequential processing.
 - Feedback loop with adaptive behavior  
 - Streamlit dashboard for visualization  
 
----
 
 ## Project Structure
 
@@ -145,7 +143,6 @@ autonomous-deal-ai/
 │  
 └── run.py  
 
----
 
 ## Setup Instructions
 
@@ -198,7 +195,6 @@ $600,000 per 100 deals
 Result:
 - 160 hours saved per cycle  
 
----
 
 ## Key Highlights
 
