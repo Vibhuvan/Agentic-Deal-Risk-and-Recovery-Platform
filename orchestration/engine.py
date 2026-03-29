@@ -4,7 +4,7 @@ from orchestration.graph_runner import build_graph
 
 def run_agents(state):
 
-    # 🔥 AUTO DEAL SELECTION
+    #  AUTO DEAL SELECTION
     if not state.get("deal_id"):
         state = portfolio_node(state)
 
@@ -12,7 +12,7 @@ def run_agents(state):
         if selected:
             state["deal_id"] = selected[0]
 
-    # 🔥 PLANNER
+    # PLANNER
     state = planner_node(state)
 
     plan = state.get("plan", [])
@@ -22,7 +22,7 @@ def run_agents(state):
 
     print("PLAN:", plan)
 
-    # 🔥 LANGGRAPH EXECUTION
+    # LANGGRAPH EXECUTION
     graph = build_graph(plan)
 
     result = graph.invoke(state)
