@@ -111,37 +111,32 @@ This enables **true autonomy**, not just sequential processing.
 
 
 ## Project Structure
-
 autonomous-deal-ai/  
 ├── agents/  
-│   ├── planner_agent.py  
-│   ├── fusion_agent.py  
-│   ├── risk_agent.py  
-│   ├── strategy_agent.py  
-│   ├── execution_agent.py  
-│   ├── feedback_agent.py  
-│   └── portfolio_agent.py  
+│   ├── planner_agent.py      # Agent selection, Goal setting and decomposition
+│   ├── fusion_agent.py       # Data synthesis and context merging
+│   ├── risk_agent.py         # Risk calculation
+│   ├── strategy_agent.py     # Negotiation and positioning
+│   ├── execution_agent.py    # Action triggering and API calls
+│   ├── feedback_agent.py     # Post-action analysis
+│   └── portfolio_agent.py    # Holistic deal tracking
 │  
 ├── orchestration/  
-│   └── engine.py  
+│   ├── engine.py             # Core logic and shared state
+│   └── graph_runner.py       # Directed Graph execution and node management (LangGraph)
 │  
 ├── frontend/  
-│   └── app.py  
+│   └── app.py                # Streamlit/UI interface
 │  
 ├── data/  
-│   └── raw/  
-│       ├── crm_deals.json  
-│       ├── emails.json  
-│       ├── engagement.json  
-│       └── market.json  
+│   └── raw/                  # Source data for deal intelligence
 │  
 ├── utils/  
-│   ├── llm.py  
-│   ├── parser.py  
-│   └── prompts.py  
+│   ├── llm.py                # LLM wrappers (Gemini)
+│   ├── parser.py             # Output formatting
+│   └── prompts.py            # System instructions
 │  
-└── run.py  
-
+└── run.py                    # Entry point
 
 
 ## Setup Instructions
