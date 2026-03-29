@@ -14,3 +14,4 @@ def call_gemini(prompt: str) -> str:
         contents=prompt
     )
     return response.text
+
