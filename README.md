@@ -17,7 +17,7 @@ Sales teams lose deals due to:
 - Competitive pressure  
 - Poor visibility into deal health  
 
-Traditional CRMs (like Salesforce, HubSpot) are **passive dashboards** — they do not **reason, act, or recover deals automatically**.
+Traditional CRMs (like Salesforce, HubSpot) are **passive dashboards**, they do not **reason, act, or recover deals automatically**.
 
 
 
